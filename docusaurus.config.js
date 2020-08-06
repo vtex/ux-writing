@@ -21,7 +21,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/vtex/ux-writing',
           label: 'GitHub',
@@ -41,7 +40,7 @@ module.exports = {
             },
             {
               label: 'Second Doc',
-              to: 'docs/doc2/',
+              to: 'docs/',
             },
           ],
         },
