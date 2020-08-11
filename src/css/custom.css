@@ -7,15 +7,6 @@
 
 /* You can override the default Infima variables here. */
 
-h1, h2, h3, h4, h5, h6, p {
-  font-family: "VTEX Trust 20.06.24", arial, sans-serif !important;
-}
-h1, h2, h3, h4, h5, h6 {
-  font-feature-settings: "pnum";
-}
-strong {
-  font-weight: bold !important;
-}
 :root {
   --ifm-color-primary: #f71963;
   --ifm-color-primary-dark: #ed0854;

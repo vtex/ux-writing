@@ -1,17 +1,18 @@
 module.exports = {
   title: 'VTEX UX Writing Guidelines',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://uxwriting.vtex.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/logo.svg',
+  organizationName: 'VTEX',
+  projectName: 'ux-writing',
   themeConfig: {
     navbar: {
-      title: 'The Torrey Project',
+      hideOnScroll: true,
+      title: 'UX Writing Guidelines',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'VTEX UX Writing Guidelines',
         src: 'img/logo.svg',
       },
       items: [
@@ -30,52 +31,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} VTEX. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VTEX. This work is available under a Creative Commons Attribution-NonCommercial 4.0 International License.`,
     },
   },
   presets: [

@@ -6,10 +6,28 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+}
+
+.hero__title {
+  font-weight: 400;
+  font-size: 4.875rem;
+  line-height: 110%;
+}
+
+.getStarted {
+  text-transform: uppercase;
+  font-size: 0.825rem;
+  letter-spacing: 2px;
+  padding: 16px 24px;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+  line-height: 150%;
 }
 
 @media screen and (max-width: 966px) {
