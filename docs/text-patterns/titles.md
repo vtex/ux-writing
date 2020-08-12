@@ -6,10 +6,11 @@ title: Titles
 
 > Titles immediately indicate context and possible actions in a given section.
 
-## 👍Do's
+## 👍Do's  
+
 Always name sections with titles. They clarify the context, facilitate documentation, and allow users to point out where their troubles are, in support tickets. 
-Always use title case.
-Titles may be used in the following contexts:
+Always use title case.  
+Titles may be used in the following contexts:  
 - Brand names
 - Defining a content's name
 - Grouping ambiguous tasks 
