@@ -11,16 +11,16 @@ title: Titles
 - Always name sections with titles. They clarify the context, facilitate documentation, and allow users to point out where their troubles are, in support tickets.      
 - Always use title case.  
 - Titles may be used in the following contexts:  
-Brand names
-Defining a content's name
-Grouping ambiguous tasks 
-Indicating single tasks 
+Brand names  
+Defining a content's name  
+Grouping ambiguous tasks   
+Indicating single tasks   
 
 ### Brand name
 
 > Branded terms should be capitalized accordingly. 
 
-VTEX should always be on All Caps. 
+VTEX should always be on All Caps.   
 Be mindful how other VTEX branded terms are written. They should be consistent throughout our platform and communication strategies. 
 
 💡Examples
