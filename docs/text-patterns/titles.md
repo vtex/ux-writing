@@ -44,7 +44,7 @@ Prefer broader terms like *Management*, *Dashboard* and *Overview*, followed by 
 
 💡Example: Subscriptions **Management**, Account **Overview**.
 
-## **Single task**
+### **Single task**
 
 > Sections that are straight to the-point, where there's a single action the user must take.
 
