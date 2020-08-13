@@ -24,7 +24,7 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 - Make the endpoint recognizable. The user should grasp its function by reading the title.  
 - Titles can follow this format:
 
-`Verb` (indicates the action taking place) + `Entity` (indicates what the action will affect) + `Complement` (to specify even further the endpoint)  
+`Verb` (indicates the action taking place) + `Entity` (indicates what the action will affect) + `Complement` (to further specify the endpoint)  
 
 | Operation | Verb Examples                 |
 |-----------|-------------------------------|
