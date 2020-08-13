@@ -9,6 +9,20 @@ title: Goals and Principles
 We need to allign all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. 
 Once a person becomes our client, and starts using our solutions, they should still recognize our voice. However, we understand that there's differences when writing a blog post, and writing an error message. We 
 
+## Brand Principles
+
+### 🎯 Trust to be trusted
+
+To trust is to believe with eyes closed and to delegate responsibilities. To be trustworthy you need honesty, transparency and consistency in quality and performance. This bond is built upon exchange: trust to be trusted.
+
+### 🎯 Build for community
+
+It’s all about being ready to grow and reach new levels together. Have a solid foundation, modular thinking and flexible essence, and you’re building for the community. We are global but we’re audacious enough to aim for the stars.
+
+### 🎯 Be bold
+
+Boldness is about challenging the status quo and not being afraid to make mistakes or take risks. Test new alternatives, walk into the unknown and explore possibilities no one thought about. To be bold is to apologize, not ask for permission.
+
 
 
 ## Tone and Voice
@@ -20,7 +34,7 @@ We speak firmly, respectfully and honestly—always with a tone that’s more se
 
 **Serious, not playful:** To build trust, we must avoid jokes, puns, and everything that may sound ambiguous. Being straightforward and honest is the key.
 
-### 📣Authority
+### 📣 Authority
 
 We are the e-commerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
 
