@@ -8,7 +8,7 @@ title: Descriptions
 
 ## Tone and Voice
 
-We trust to be trusted. We're serious, and we never alarm users, we soothe their anxieties. We add descriptions to deliver transparency, so users are aware of liabilities, and sensitive data.  We want to add precision with descriptions, not trigger doubts. W're reliable. After reading our descriptions, users should be confident about what actions they want to take.       
+We trust to be trusted. We're serious, and we never alarm users, we soothe their anxieties. We add descriptions to deliver transparency, so users are aware of liabilities, and sensitive data.  We want to add precision with descriptions, and not trigger doubts. We're reliable, we mean what we say. After reading our descriptions, users should feel confident about what actions they want to take.       
 
 
 ## 👍 Dos
