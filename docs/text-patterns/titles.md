@@ -6,6 +6,10 @@ title: Titles
 
 > Titles immediately indicate context and possible actions in a given section.
 
+## Tone and Voice
+We are ecommerce specialists. We are specific, and avoid ambiguity. Our titles must match the industry's jargons, and the users' mental model. Choose titles that seem intuitive, given what we master about ecommerce. They should instantly recognize the section's purpose, through the title.  
+Titles are vital aspects of information architecture. Understand the section's purpose and how it contributes to the bigger picture, before naming it. Be mindful of how we transmit seriousness and reliability when naming screens.  
+
 ## 👍Do's  
 
 - Always name sections with titles. They clarify the context, facilitate documentation, and allow users to point out where their troubles are, in support tickets.      
