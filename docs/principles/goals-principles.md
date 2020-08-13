@@ -7,7 +7,10 @@ title: Goals and Principles
 
 
 We need to allign all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. 
-Once a person becomes our client, and starts using our solutions, they should still recognize our voice. However, we understand that there's differences when writing a blog post, and writing an error message. We 
+Once a person becomes our client, and starts using our solutions, they should still recognize our voice. However, we understand that there's differences when writing a blog post, and writing an error message. 
+Keep in mind our Brand Principles, 
+
+
 
 ## Brand Principles
 
@@ -26,6 +29,8 @@ Boldness is about challenging the status quo and not being afraid to make mistak
 
 
 ## Tone and Voice
+
+There are other characteristics that also define our tone and voice. For UX Writing, we chose to keep only the ones below, for we understand that they capture the reliability our system's voice should have. 
 
 
 ### 📣 Serious
