@@ -3,36 +3,20 @@ id: buttons
 title: Buttons
 ---
 
-## Context
+> Triggers an action, or allows the user to advance a state.
 
-Titles provide immediate clarity of context and action to be taken.
+## 👍 Dos
+- Avoid using more than 3 words.  
+- Title case  
+- Prefer imperative verbs.  
 
-## Brand name
+💡Example: Create account, Edit dock. 
 
-### 👍 Dos
+### Icons as buttons
+- When using icons as buttons, be mindful of accessibility, always include descriptions in the alt tag.  
+- Pay attention to the icon's use in other screens, be consistent of what action it represents.  
 
-### 👎 Don'ts
-VTEX should always be on All Caps.
+💡Example:  "←", "⚙️Settings"
 
-Branded terms should be capitalized 
-### 💡Examples
-**SmartCheckout, inStore, VTEX Payment**
+## 👎 Don'ts
 
-![img](../../static/img/text-patterns/titles/Example.png)
-
-## Content name
-
-> "*When a screen is based on content, such as a blog post, social media post, or image, the screen might use a title based on that content: the content-name title. These content name titles can be specified by the person who created the content, like the publisher of a blog, or it can be generated from the content itself, like the titles generated for single posts on social media."*
-
-## **Ambiguous task**
-
-> "*On screens with multiple potential actions that the person can take, like a dashboard view of a person’s account, it’s helpful to use a title that covers the entire set of ambiguous tasks."*
-
-💡Example: Subscriptions **Management**, Account **Overview**
-
-## **Single task**
-
-> *Single-task titles act as instructions for the person to take an action. 
-Prefer imperative verb phrases as a direction to reinforce the correct action.*
-
-💡Example: Create a New Affiliation, Edit Payment Methods, Received SKUs, Map Categories and Brands
