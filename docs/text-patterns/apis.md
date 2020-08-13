@@ -20,14 +20,27 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 
 > Quickly clarify the action of the endpoint.
 
-- Indicate the endpoint's operation, or action.  
-- Make that endpoint recognizable. The user should grasp its function by reading the title.  
-- Prefer verbs like: Get, List, Update, Delete, Create, Cancel, Insert.  
-- If what differentiates endpoints is a certain query param, add it in the title.   
+
+- Make the endpoint recognizable. The user should grasp its function by reading the title.  
+- Titles can follow this format:
+
+`Verb` (indicates the action taking place) + `Entity` (indicates what the action will affect) + `Complement` (to specify even further the endpoint)  
+
+| Operation | Verb Examples                 |
+|-----------|-------------------------------|
+| GET       | Get, List, Retrieve, List all |
+| POST      | Create, Add, Insert           |
+| PUT       | Update, Insert                |
+| DEL       | Cancel, Delete                |
+
+
+💡Examples: List Product Review Rate, Create SKU Service Type, Update Cart Items.
+
+- If what differentiates endpoints is a certain query param, add it as a complement.   
 Ex. Get frequency options by subscriptionId.  
 - Use terminology consistent with the endpoint's attributes.
 
-💡Examples:  Update Product, Get Product Review Rate
+
 
 
 ## API: Endpoint Descriptions
