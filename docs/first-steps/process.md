@@ -17,13 +17,9 @@ It is a vital component within UX
 > "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - Torrey Podmajersky, Strategic Writing for UX
 
 
-We might have different tools to accomplish our goals, but at the end of the day, we’re united by the same principles. 
-We want the same thing: to facilitate an intuitive experience for VTEX customers.
-
-
-
-
 ## How
+
+
 
 
 ## What
@@ -31,6 +27,10 @@ We want the same thing: to facilitate an intuitive experience for VTEX customers
 
 ## Who
 
-UX writing is a collaborative area in its essence. A shared responsibility means we understand the challenge together, co-create the resources needed, and scale the access so we have agile processes.
+UX writing is a collaborative craft in its essence. 
 
-In VTEX, we have 
+In VTEX, we have different teams who collaborate to create the words on our experience. People from  Localization, Design, Product and Education teams take part in the UX Writing process. 
+
+We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes. 
+
+In VTEX, we build for community. This UX Writing styleguide is the resource  everyone involved in writing for UX can count on, to create precise copy, alligned with our tone and voice, following best practices. 
