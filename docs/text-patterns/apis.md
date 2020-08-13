@@ -3,7 +3,7 @@ id: apis
 title: APIs
 ---
 
-UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy users, API's are the VTEX interface that they deal with. Their Developer Experience is a component of the general User Experience that we build, and influences how our brand and product is perceived. A well designed API, with clear terminology, that applies UX Writing practices is the experience we want our users to have.
+UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy users, API's are the VTEX interface that they deal with. Their Developer Experience is a component of the general User Experience that we build, and influences how our brand and product is perceived. A well designed API, with clear terminology, that applies UX Writing practices is the frictionless, polished experience we want our users to have.
 
 ## API: Information Architecture
 
