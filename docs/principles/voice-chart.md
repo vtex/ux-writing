@@ -5,14 +5,17 @@ title: Voice Chart
 
 ## What's a Voice Chart
 
-> "The voice chart holds a set of **decision-making rules and creative guidance to make the UX content align to the needs of the organization and of the person using the experience**. When the UX content is being drafted, the voice chart will help identify what might make it better. When there are multiple good options for the UX content, the voice chart will make deciding between those good options easier. When the UX content is complete, the voice chart will help people move away from subjective judgments and use it as an external success measure. When there are multiple teammates creating UX content, the voice chart helps them align UX content to the voice." - **Torrey Podmajersky**, Strategic Writing for UX
+> "The voice chart holds a set of **decision-making rules and creative guidance to make the UX content align to the needs of the organization and of the person using the experience**. " - **Torrey Podmajersky**, Strategic Writing for UX
+
+A UX Writing Voice Chart is a tool designed by Torrey Podmajersky and described in her book *Strategic Writing for UX*. It is an effective resource that serves as the primary guide for everyone writing microcopy in our platform. It reminds us how the words we see on screen are actually part of a larger structure, connected to VTEX's goals and personality. Every word should be chosen carefully and strategically. The Voice Chart provides us the means to write precise and effective microcopy, alligned with what we wish to transmit to our users. 
 
 ## When should I use the Voice Chart?
 
 This chart is your ally when writing microcopy. It can help you brainstorm, draft, edit and choose the right words. Have it with you whenever you are:
 - Drafting UX copy, and seeking to allign it to our brand's voice. 
-- Unsure which option is the best, from what you brainstormed.  
+- No sure which option is the best, from what you brainstormed.  
 - Editing your UX copy, adjusting grammar, punctuation and capitalization.
+- Polishing your copy to make it alligned to VTEX and the user's goals.
 
 Check out our [Process]() page for more details and suggestions. 
 
