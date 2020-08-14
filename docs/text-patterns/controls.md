@@ -14,9 +14,9 @@ Adding controls to a screen is a useful way of making configurations more user f
 ## 👍 Dos
 
 - Use titles to group related controls.      
-- Choose words that are alligned with our ecommerce vocabulary.    
-- You can write the current state of the control, to improve accessibility.          
-- Add descriptions if the control is critical, or complex.      
+- Choose words that are alligned with our ecommerce vocabulary.      
+- You can write the current state of the control, to improve accessibility.            
+- Add descriptions if the control is critical, or complex.        
 
 💡Examples
 
