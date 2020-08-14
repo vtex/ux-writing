@@ -3,13 +3,10 @@ id: goals-principles
 title: Goals and Principles
 ---
 
-## 
+> 
 
 
-We need to allign all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. 
-Once a person becomes our client, and starts using our solutions, they should still recognize our voice. However, we understand that there's differences when writing a blog post, and writing an error message. 
-Keep in mind our Brand Principles, 
-
+Our brand's voice is present when bringing awareness to our solutions, attracting customers and building a community. We must allign all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. Once a person becomes our client, and starts using our solutions, they should still recognize our voice. In this page we bring forth our Brand Principles, Tone and Voice and Writing guidelines to remind UX writers how UX copy should always be alligned with our product and brand's strategy. 
 
 
 ## Brand Principles
@@ -30,7 +27,8 @@ Boldness is about challenging the status quo and not being afraid to make mistak
 
 ## Tone and Voice
 
-There are other characteristics that also define our tone and voice. For UX Writing, we chose to keep only the ones below, for we understand that they capture the reliability our system's voice should have. 
+
+Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. There are other characteristics present in our brand manual, that also define our tone and voice. However, for UX Writing, we chose to keep only the ones below, for we understand that they capture the reliability our system's voice should have. 
 
 
 ### 📣 Serious
@@ -45,6 +43,8 @@ We are the e-commerce bastions. When speaking to others, we talk with mastery, p
 
 **Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
 
+
+
 ## Brand's Writing Principles
 
 ### 📝 Clarity
@@ -58,3 +58,11 @@ Are you writing for engineers or e-commerce analysts? Are you channeling your me
 ### 📝 Precision
 
 Stick to the main message you want to communicate and cut everything else. Mixing up many different topics will only confuse the audience and lower the performance of your content.
+
+
+## Other resources
+
+[Education team Styleguide](https://www.notion.so/Technical-Writing-Guidelines-a65f395263ea4d6d93e6c3c2bb7afd21)
+[VTEX Brand Guide](http://brand.vtex.com/brand/)
+
+
