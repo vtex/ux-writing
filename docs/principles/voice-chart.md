@@ -24,27 +24,32 @@ Check out our [Process]() page for more details and suggestions.
 
 ### 🧭 Product Principles
 
-*"These principles define what the experience is trying to be to the people who use it. Then, the voice can do its job of conveying those product principles with every word." - **Torrey Podmajersky***
+"These principles define what the experience is trying to be to the people who use it. Then, the voice can do its job of conveying those product principles with every word." - **Torrey Podmajersky**, Strategic Writing for UX
+
 
 ### 🎯 Concepts
 
-*"The concepts are the ideas or topics that the organization wants to emphasize at any open opportunity, even when they aren’t a part of the task at hand. They are the ideas that reflect the role that the organization wants the experience to have in the person’s life." - **Torrey Podmajersky***
+"The concepts are the ideas or topics that the organization wants to emphasize at any open opportunity, even when they aren’t a part of the task at hand. They are the ideas that reflect the role that the organization wants the experience to have in the person’s life." - **Torrey Podmajersky***
 
 ### 📖 Vocabulary
 
-"*Where specific words can support or undermine a voice principle, use the Vocabulary row to specify them. If there aren’t specific words that help land the principle, you can omit this row. It doesn’t replace a robust word list or terminology list." - **Torrey Podmajersky***
+"Where specific words can support or undermine a voice principle, use the Vocabulary row to specify them." - **Torrey Podmajersky**, Strategic Writing for UX
+
 
 ### 💬 Verbosity
 
-"*For strict usability, the words inside an experience should get out of people’s way. The UX text isn’t there to be savored or read for pleasure. But using few words where many are expected can block a person from moving forward as thoroughly as using too many words where few are expected. Screen size and reading format makes a difference, too" - **Torrey Podmajersky*** 
+"For strict usability, the words inside an experience should get out of people’s way. The UX text isn’t there to be savored or read for pleasure. But using few words where many are expected can block a person from moving forward as thoroughly as using too many words where few are expected. Screen size and reading format makes a difference, too" - **Torrey Podmajersky**, Strategic Writing for UX
+ 
 
 ### 📝 Grammar
 
-*"Natural language gives us a rich variety of ways to construct and convey our ideas, but all of those ways don’t work in all experiences." -* ***Torrey Podmajersky*** 
+"Natural language gives us a rich variety of ways to construct and convey our ideas, but all of those ways don’t work in all experiences." -* **Torrey Podmajersky**, Strategic Writing for UX
+ 
 
 ### 🅰️ Punctuation and Capitalization
 
-"*This is where most style guides do their heavy lifting: when to use commas, how to use en dashes, and more." - **Torrey Podmajersky***
+"This is where most style guides do their heavy lifting: when to use commas, how to use en dashes, and more." - **Torrey Podmajersky**, Strategic Writing for UX
+
 
 
 ## Our Voice Chart
