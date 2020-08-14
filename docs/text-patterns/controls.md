@@ -3,7 +3,7 @@ id: controls
 title: Controls
 ---
 
-> 
+> Tools that customize configurations.
 
 ## Tone and Voice
 
