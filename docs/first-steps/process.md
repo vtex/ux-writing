@@ -6,9 +6,15 @@ title: UX Writing Process
 
 ## UX Writing
 
-UX Writing is the craft of designing the words that users see and interact with, in softwares. 
+UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. 
+By defining clear UX Writing guidelines, we wish to
 
-It is a vital component within UX
+### Avoid
+- Inconsistent terminology  
+- Lack of allignment with our brand's voice
+- Ambiguous microcopy, that lack precision and trigger confusion  
+- 
+
 
 
 
