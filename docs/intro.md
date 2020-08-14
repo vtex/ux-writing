@@ -4,209 +4,58 @@ title: Getting Started
 sidebar_label: Getting Started
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+## What is UX Writing
 
 
-## Basic structure
-- Our goals and principles
-- Voice chart
-- Text patterns
-- Word list
-- Internationalization
-- Accessibility
-- Measuring
+> "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - Torrey Podmajersky, Strategic Writing for UX
 
-## Markdown Syntax
 
-To serve as an example page when styling markdown based Docusaurus sites.
+UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. The text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts. 
 
-## Headers
 
-# H1 - Create the best documentation
+## Why follow UX Writing guidelines
 
-## H2 - Create the best documentation
+By defining clear UX Writing guidelines, we wish to:
 
-### H3 - Create the best documentation
+### Avoid
+- **Inconsistent terminology:** a unified information architecture is vital when designing text. Terms must have contextualized, unique meanings, that are consistent throughout our platform.     
+- **Lack of allignment with our brand's voice:** users must recognize us regardless of the medium they're interacting with. Our brand's voice and principles must be taken into account in UX Writing.  
+- **Ambiguous microcopy:** we must be precise with UX text, so our users know how, when, why and what actions they need to take.   
+- **Frustrating our users:**: ux copy is what the user ultimately interacts with in a software. We must transmit trust, not trigger confusion.     
+ 
 
-#### H4 - Create the best documentation
+### Achieve
+- **Text alligned with VTEX's goals and brand:** UX writing is how our voice can be heard daily by our clients. We must have a strategic approach with microcopy, transmiting our goals, values and brand principles as a company.  
+- **Clear information architecture:** it is the structure for an excellent user experience. Not just within modules, but throughout the whole product.   
+- **Agility for our user's actions:** the effectiveness of UX Writing can be measure by how long it takes for users to achieve their goals on a screen. Our microcopy should promote agility and confidence to users.   
+- **Polished product:** leveraging engineering, design and UX writing so our users recognize our product's reliability and our authority in the market.  
 
-##### H5 - Create the best documentation
 
-###### H6 - Create the best documentation
 
----
+## How was this styleguide built
 
-## Emphasis
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+This styleguide was built following Torrey Podmajersky's book, Strategic Writing for UX. She's been an expert on this field for over 10 years, and you'll see many quotations and concepts from her book here. 
+The Education and Design teams conducted an internal research to map how we previously dealt with UX Writing. We wanted to understand the frictions present in our process, and what resources were missing so we could create the best microcopy collaboratively. 
+This styleguide is the result of the research's effort, to improve how we manage UX Writing in VTEX.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-Combined emphasis with **asterisks and _underscores_**.
+## What does it contain
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Here you can find:
+- [Voice Chart]() to guide you in drafting, editing and choosing the best microcopy.  
+- [Text Patterns]() so you'll have a starting point to write precise text for buttons, titles, error messages and more.  
+- [Process]() to direct you to the best practices and steps present when writing microcopy.  
+- [Accessibility]() so we build for community.  
+- [Localization]() to write copy that is ready to go global.  
 
----
+## Who should use it
 
-## Lists
+UX writing is a collaborative craft in its essence.   
 
-1. First ordered list item
-1. Another item
-   - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-1. And another item.
+In VTEX, we have different teams who collaborate to create the words on our experience. People from  Localization, Design, Product and Education teams usually take part in the UX Writing process.   
 
-* Unordered list can use asterisks
+We build for community. This styleguide is the resource **everyone involved in  UX Writing** can count on, to create precise copy, alligned with our tone and voice, following best practices.   
 
-- Or minuses
+We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.   
 
-+ Or pluses
-
----
-
-## Links
-
-[I'm an inline-style link](https://www.google.com/)
-
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
-
----
-
-## Images
-
-Here's our logo (hover to see the title text):
-
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 1')
-
-Reference-style: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png 'Logo Title Text 2'
-
-Images from any folder can be used by providing path to file. Path should be relative to markdown file.
-
-![img](../static/img/logo.svg)
-
----
-
-## Code
-
-```javascript
-var s = 'JavaScript syntax highlighting';
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log('This line can be highlighted!');
-}
-```
-
----
-
-## Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
----
-
-## Inline HTML
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-## Line Breaks
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
-
----
-
-## Admonitions
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
-
-:::warning
-
-This is a warning
-
-:::
