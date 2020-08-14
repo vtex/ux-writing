@@ -29,7 +29,8 @@ Check out our [Process]() page for more details and suggestions.
 
 ### 🎯 Concepts
 
-"The concepts are the ideas or topics that the organization wants to emphasize at any open opportunity, even when they aren’t a part of the task at hand. They are the ideas that reflect the role that the organization wants the experience to have in the person’s life." - **Torrey Podmajersky***
+"The concepts are the ideas or topics that the organization wants to emphasize at any open opportunity, even when they aren’t a part of the task at hand. They are the ideas that reflect the role that the organization wants the experience to have in the person’s life." - **Torrey Podmajersky**, Strategic Writing for UX
+
 
 ### 📖 Vocabulary
 
