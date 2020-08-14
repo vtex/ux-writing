@@ -27,8 +27,8 @@ Indicating single tasks*
 VTEX should always be on All Caps.   
 Be mindful how other VTEX branded terms are written. They should be consistent throughout our platform and communication strategies.     
 
-💡Examples
-SmartCheckout, inStore, VTEX Payment.  
+💡Examples 
+SmartCheckout, inStore, VTEX Payment.
 
 ![img](../../static/img/text-patterns/titles/Example.png)  
 
