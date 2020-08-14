@@ -10,24 +10,24 @@ title: UX Writing Process
 
 UX Writing processes are rarely linear, especially when realized collaboratively. Below you can see the general phases present in our process. Be mindful that their order is flexible, and steps can often be repeated throughout the process. Keep in mind to use the [Voice Chart]() to guide you in all steps of your process.   
 
-## Research
+### Research
 > Understand the component's behavior.  
 
-## Benchmark
+### Benchmark
 > Check internal and external references.   
   
-## Draft
+### Draft
 > Brainstorm multiple text options.  
 
-## Edit
+### Edit
 > Balance voice, conciseness and clarity.  
 
-## Test
+### Test
 > Check how the text appears in the UI, and how users respond.    
 
-## Review
+### Review
 > Peers evaluate the text, helping decide between options.  
 
-## Localize
+### Localize
 > Translate the chosen sentence.   
 Checkout our [Localization]() page for more guidance.   
