@@ -3,18 +3,22 @@ id: controls
 title: Controls
 ---
 
-## Context
+> 
 
-Titles provide immediate clarity of context and action to be taken.
+## Tone and Voice
+
+
+
+
 
 ## 👍 Dos
 
+
+💡Examples
+
+
 ## 👎 Don'ts
-VTEX should always be on All Caps.
 
-## 💡Examples
 
-![img](../../static/img/text-patterns/titles/Example.png)
+💡Examples
 
-## More info
-- [URL 1](https://google.com)
