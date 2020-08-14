@@ -22,7 +22,8 @@ title: Text Input
 
 ### Search Bars
 
-When adding text input for search bars, be mindful of the verbs you choose. Prefer imperative tense, not infinitive. You can follow this format:
+When adding text input for search bars, be mindful of the verbs you choose. Prefer imperative tense, not infinitive. 
+You can follow this format:
 
 `Search for` + `exact search terms`  
 
