@@ -3,11 +3,11 @@ id: errors
 title: Errors
 ---
 
-> 
+> Point out an unwanted behavior, and its solving action. 
 
 ## Tone and Voice
 
-
+Errors aren't the happy path we want our users to follow. They usually trigger frustration, and can lead to ticket openings. When designing error messages, it is our responsibility to transmit both Seriousness and Authority. We understand that there's a problem, we recognize the trouble it causes, so we immediately indicate a solving action. Remember that we never alarm users, we soothe their anxieties. Cordiality is also a strategic aspect when writing error messages. 
 
 
 
