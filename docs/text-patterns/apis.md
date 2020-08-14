@@ -34,13 +34,12 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 | DEL       | Cancel, Delete                |
 
 
-💡Examples: List Product Review Rate, Create SKU Service Type, Update Cart Items.  
+  
 
-- If what differentiates endpoints is a certain query param, add it as a complement.     
-Ex. Get frequency options by subscriptionId.    
-- Use terminology consistent with the endpoint's attributes.  
+- If what differentiates endpoints is a certain query param, add it as a complement.       
+- Use terminology consistent with the endpoint's attributes.    
 
-
+💡Examples: List Product Review Rate, Create SKU Service Type, Update Cart Items, Get frequency options by subscriptionId..
 
 
 ## API: Endpoint Descriptions
