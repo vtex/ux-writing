@@ -7,7 +7,7 @@ title: Labels
 
 ## Tone and Voice
 
-
+Labels should help users, and not become the text that they skip while skimming through a page. Be specific. We are ecommerce experts, and we master our customer's diverse contexts. Make sure to always use ecommerce jargons. 
 
 
 
