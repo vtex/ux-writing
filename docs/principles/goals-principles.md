@@ -62,7 +62,8 @@ Stick to the main message you want to communicate and cut everything else. Mixin
 
 ## Other resources
 
-[Education team Styleguide](https://www.notion.so/Technical-Writing-Guidelines-a65f395263ea4d6d93e6c3c2bb7afd21)
+[Education team Styleguide](https://www.notion.so/Technical-Writing-Guidelines-a65f395263ea4d6d93e6c3c2bb7afd21)  
+
 [VTEX Brand Guide](http://brand.vtex.com/brand/)
 
 
