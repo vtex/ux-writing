@@ -8,6 +8,10 @@ module.exports = {
   organizationName: 'VTEX',
   projectName: 'ux-writing',
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+    },
     navbar: {
       hideOnScroll: true,
       title: 'UX Writing Guidelines',
@@ -25,6 +29,11 @@ module.exports = {
         {
           href: 'https://github.com/vtex/ux-writing',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://vtex.com',
+          label: 'VTEX',
           position: 'right',
         },
       ],

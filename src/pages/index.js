@@ -1,94 +1,79 @@
-import React from 'react';
-import clsx from 'clsx';
-import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useBaseUrl from '@docusaurus/useBaseUrl';
-import styles from './styles.module.css';
+import React from "react";
+import clsx from "clsx";
+import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import styles from "./styles.module.css";
 
-const features = [
-  {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
-  },
-];
-
-function Feature({imageUrl, title, description}) {
-  const imgUrl = useBaseUrl(imageUrl);
+function Topic({ title, description, linkTo }) {
   return (
-    <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )}
+    <div className={clsx("col", styles.topic)}>
       <h3>{title}</h3>
-      <p>{description}</p>
+      <p className={styles.topic__description}>{description}</p>
+      <Link
+        className={clsx("button button--lg", styles.button__secondary)}
+        to={useBaseUrl(linkTo)}
+      >
+        EXPLORE
+      </Link>
     </div>
   );
 }
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />">
+      description="Description will go into a meta tag in <head />"
+    >
       <header className={styles.heroBanner}>
         <div className="container">
-          <h1 className={styles.hero__title}>{siteConfig.title}</h1>
-          <p className={styles.hero__subtitle}>{siteConfig.tagline}</p>
+          <h1 className={styles.hero__title}>The right words, at the right time.</h1>
+          <p className={styles.hero__subtitle}>We craft precise microcopy, that transmits our brand’s voice, and achieves our user’s goals. Through this guide,  you will master the art of UX Writing at VTEX.  </p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
-                'button button--primary button--lg',
-                styles.getStarted,
+                "button button--primary button--lg",
+                styles.getStarted
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl("docs/")}
+            >
+              GET Started
             </Link>
           </div>
         </div>
       </header>
       <main>
-        {features && features.length > 0 && (
-          <section className={styles.features}>
-            <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
-              </div>
-            </div>
-          </section>
-        )}
+        <div className={styles.topics}>
+        <div className="container">
+          <div className={clsx("row")}>
+            <Topic
+              title="Getting Started"
+              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              linkTo="/docs"
+            />
+            <Topic
+              title="Getting Started"
+              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              linkTo="/docs"
+            />
+            <Topic
+              title="Getting Started"
+              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              linkTo="/docs"
+            />
+            <Topic
+              title="Getting Started"
+              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              linkTo="/docs"
+            />
+          </div>
+        </div>
+        </div>
+       
       </main>
     </Layout>
   );
