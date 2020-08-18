@@ -23,7 +23,7 @@ What is the action the user is trying to accomplish?
 > UX writers must understand the dimensions of the avaialable space, and context around the text that will be added. 
 
 
-## I want to request UI text translations
+## I want to request translations for UI text
 
 We have a responsibility of delivering contextualized content to our clients in over 28 countries. Our platform will be soon available in six languages. As a global company, we must guarantee high quality content that is correctly adapted to a region’s audience. 
 
