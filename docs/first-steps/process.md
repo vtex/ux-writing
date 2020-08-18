@@ -8,6 +8,26 @@ title: UX Writing Process
 ## Process
 
 
+## I want to request UI texts
+
+If you’re developing or updating a screen you’ll probably need to write some fresh text for the UI. If you’d like to request someone from the Education or Design teams to write or review your copy, follow the instructions below:
+
+
+### UX Writing Request Checklist:
+
+- Describe the behavior thoroughly. 
+> Some questions you can answer:
+What is this button’s expected behavior?  
+What does this term mean in our VTEX context?  
+What is the action the user is trying to accomplish?  
+- Share Figma files, or screenshots of where the microcopy will be located on screen.
+> UX writers must understand the dimensions of the avaialable space, and context around the text that will be added. 
+
+
+
+## I want to create UI Text
+
+
 UX Writing processes are rarely linear, especially when realized collaboratively. Below you can see the general phases present in our process. Be mindful that their order is flexible, and steps can often be repeated throughout the process. Keep in mind to use the [Voice Chart]() to guide you in all steps of your process.   
 
 ### Research
