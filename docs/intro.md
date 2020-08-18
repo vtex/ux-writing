@@ -12,6 +12,10 @@ sidebar_label: Getting Started
 
 UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. The text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts. 
 
+## What UX Writing is not
+
+UX Writing is not the same as creating content for blogs, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI. 
+
 
 ## Why follow UX Writing guidelines
 
