@@ -29,7 +29,7 @@ We have a responsibility of delivering contextualized content to our clients in 
 
 > We advise that UX Writers only publish microcopy in their native language. **Every other translation must go through the Localization team.**
 
-For VTEX emlpoyees, all translation requests must be sent through the localization team’s Google forms. You can find the link, and directions pinned on the #localization channel. 
+For VTEX emlpoyees, all translation requests must be sent through the localization team’s Google forms. You can find the link, and directions pinned on the #localization channel on Slack. 
 When determining a screen’s deploy date, be mindful of the time it takes for content to be translated. We suggest that you send translation requests within 2 weeks before your deadline. 
 
 
