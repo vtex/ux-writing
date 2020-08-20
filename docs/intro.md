@@ -10,7 +10,12 @@ sidebar_label: Getting Started
 > "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - Torrey Podmajersky, Strategic Writing for UX
 
 
-UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. The text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts. 
+UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. The text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts.
+
+ Where can you find UX Writing in the VTEX context:  
+- Our VTEX Commerce Admin  
+- Our stand alone products, like VTEX Tracking  
+- Our platform status page  
 
 ## What UX Writing is not
 
