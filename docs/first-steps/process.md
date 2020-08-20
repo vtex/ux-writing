@@ -10,7 +10,7 @@ title: UX Writing Process
 
 ## I want to request UI texts
 
-If you’re developing or updating a screen you’ll probably need to write some fresh text for the UI. If you’d like to request someone from the Education or Design teams to write or review your copy, follow the instructions below:
+If you’re developing or updating a screen, you’ll probably need to write some fresh text for the UI. If you’d like to request someone from the Education or Design teams to write or review your copy, follow the instructions below:
 
 ### UX Writing Request Checklist:
 
