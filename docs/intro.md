@@ -15,7 +15,8 @@ UX Writing is the craft of designing the words that users see and interact with,
  Where can you find UX Writing, in our VTEX context:  
 - Our VTEX Commerce Admin    
 - Our stand alone products, like VTEX Tracking    
-- Our platform status page    
+- Our platform status page   
+- APIs   
 
 ## What UX Writing is not
 
