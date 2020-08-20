@@ -5,7 +5,7 @@ title: UX Writing Process
 
 
 
-## UX Writing Process at VTEX
+# UX Writing Process at VTEX
 
 
 ## I want to request UI texts
@@ -14,14 +14,14 @@ If you’re developing or updating a screen you’ll probably need to write some
 
 ### UX Writing Request Checklist:
 
-- Describe the behavior thoroughly. 
-> Some questions you can answer:
-What is this button’s expected behavior?  
-What does this term mean in our VTEX context?  
-What is the action the user is trying to accomplish?  
-- Share Figma files, or screenshots of where the microcopy will be located on screen.
-> UX writers must understand the dimensions of the avaialable space, and context around the text that will be added. 
+1. Describe the behavior thoroughly.   
+> Some questions you can answer:  
+    - What is this button’s expected behavior?      
+    - What does this word mean, in our VTEX context?      
+    - What is the action the user is trying to accomplish?    
 
+2. Share Figma files, or screenshots of where the microcopy will be located on screen.  
+> UX writers must understand the dimensions of the avaialable space, and the text's context within the whole page.  
 
 ## I want to request translations for UI text
 
@@ -36,12 +36,12 @@ When determining a screen’s deploy date, be mindful of the time it takes for c
 ### Localization request  checklist
 Use this checklist to help you build a thorough localization request:
 
-Add the microcopy in your native language.
-Give the localization team access to Figma files, or screenshots of where the microcopy will be located on screen.
-Give lots of context around the microcopy. Some questions you can answer:
-- What is this button’s expected behavior?
-- What does this term mean in our VTEX context?
-- What is the action the user is trying to accomplish?
+1. Provide already edited microcopy, in your native language.
+2. Give the localization team access to Figma files, or screenshots of where the microcopy will be located on screen.
+3. Provide lots of context around the microcopy. Some questions you can answer:
+    - What is this button’s expected behavior?
+    - What does this term mean in our VTEX context?
+    - What is the action the user is trying to accomplish?
 
 
 
