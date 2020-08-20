@@ -7,7 +7,7 @@ sidebar_label: Getting Started
 ## What is UX Writing
 
 
-> "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - Torrey Podmajersky, Strategic Writing for UX
+> "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - **Torrey Podmajersky**, Strategic Writing for UX
 
 
 UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. Text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts.
