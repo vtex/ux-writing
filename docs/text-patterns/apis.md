@@ -7,9 +7,9 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 
 ## API: Information Architecture
 
-> Be mindful of the system's information architecture when building the API calls. This is the basis for an excellent and  intuitive  Developer Experience.  
+> Be mindful of the system's information architecture when building the API calls. This is the basis for an excellent and intuitive Developer Experience.  
 
-- Routes, URLs, attributes, request and response bodies are an API's structural definitions. They directly affect the developer's experience, and how the documentation is built and consumed.   
+- Routes, URLs, attributes, request and response bodies are API's structural definitions. They directly affect the developer's experience, and how the documentation is built and consumed.     
 - Be consistent while naming attributes, always mirror what the user would see in the UI.    
 - Be consistent when defining data structure.     
 
@@ -19,7 +19,6 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 ## API: Endpoint Titles
 
 > Quickly clarify the action of the endpoint.
-
 
 - Make the endpoint recognizable. The user should grasp its function by reading the title.      
 - If what differentiates endpoints is a certain query param, add it as a complement in the title.         
@@ -36,9 +35,7 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 | DEL       | Cancel, Delete                |
 
 
-    
-
-💡Examples: List Product Review Rate, Create SKU Service Type, Update Cart Items, Get frequency options by subscriptionId..
+💡Examples: List Product Review Rate, Create SKU Service Type, Update Cart Items, Get frequency options by subscriptionId.
 
 
 ## API: Endpoint Descriptions
@@ -48,7 +45,6 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 - Provide details and context about the endpoint's use cases, adding any relevant particularities.    
 - Assume that the user doesn't have any context about the given API, be thorough.    
 
-
 💡Examples:  Update Product, Get Product Review Rate
 
 
@@ -57,6 +53,5 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 > Inform user about the possible response codes (200, 401, etc).  
 
 - Avoid using internal codes, prefer plain language.   
-
 
 💡Examples:
