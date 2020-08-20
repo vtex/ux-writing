@@ -70,5 +70,5 @@ UX Writing processes are rarely linear, especially when realized collaboratively
 
 ### Localize
 > Translate the chosen sentence.   
-Checkout our [Localization]() page for more guidance.   
+Checkout our [Localization](/best-practices/i18n) page for more guidance.   
 
