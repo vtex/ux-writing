@@ -55,7 +55,7 @@ By defining clear UX Writing guidelines, we wish to:
 
 
 This styleguide was built following Torrey Podmajersky's book, Strategic Writing for UX. She's been an expert on this field for over 10 years, and you'll see many quotations and concepts from her book here. 
-The Education and Design teams conducted an internal research to map how we previously dealt with UX Writing. We wanted to understand the frictions present in our process, and what resources were missing so we could create the best microcopy collaboratively. 
+The Education and Design teams conducted an internal research to map how we previously dealt with UX Writing. We mapped out what frictions were present in our process, and what resources were missing so we could create the best microcopy collaboratively. 
 This styleguide is the result of the research's effort, to improve how we manage UX Writing in VTEX.
 
 
