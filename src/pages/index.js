@@ -31,7 +31,7 @@ function Home() {
     >
       <header className={styles.heroBanner}>
         <div className="container">
-          <h1 className={styles.hero__title}>The right words, at the right time.</h1>
+          <h1 className={styles.hero__title}>The right words, with the right voice.</h1>
           <p className={styles.hero__subtitle}>We craft precise microcopy, that transmits our brand’s voice, and achieves our user’s goals. Through this guide,  you will master the art of UX Writing at VTEX.  </p>
           <div className={styles.buttons}>
             <Link
