@@ -16,7 +16,7 @@ Have it with you whenever you are:
 - Drafting UX copy, and seeking to align it to our brand's voice.   
 - Not sure which option is the best, amongst the options you brainstormed.    
 - Editing your UX copy, adjusting grammar, punctuation and capitalization.  
-- Polishing your copy to make it alligned to VTEX and user's goals.  
+- Polishing your copy to make it aligned to VTEX and user's goals.  
 
 Check out our [Process](/docs/first-steps/process) page for more details and suggestions. 
 
