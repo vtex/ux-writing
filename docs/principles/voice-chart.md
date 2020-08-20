@@ -5,7 +5,7 @@ title: Voice Chart
 
 ## What's a Voice Chart
 
-> "The voice chart holds a set of **decision-making rules and creative guidance to make the UX content align to the needs of the organization and of the person using the experience**. " - **Torrey Podmajersky**, Strategic Writing for UX
+> "The voice chart holds a set of decision-making rules and creative guidance to make the UX content align to the needs of the organization and of the person using the experience. " - **Torrey Podmajersky**, Strategic Writing for UX
 
 A UX Writing Voice Chart is a tool designed by Torrey Podmajersky and described in her book *Strategic Writing for UX*. It is an effective resource that serves as the primary guide for everyone writing microcopy in our platform. It reminds us how the words we see on screen are actually part of a larger structure, connected to VTEX's goals and personality. Every word should be chosen carefully and strategically. The Voice Chart provides us the means to write precise and effective microcopy, alligned with what we wish to transmit to our users. 
 
