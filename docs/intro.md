@@ -42,7 +42,7 @@ By defining clear UX Writing guidelines, we wish to:
 - **Inconsistent terminology:** a unified information architecture is vital when designing text. Terms must have contextualized, unique meanings, that are consistent throughout our platform.     
 - **Lack of allignment with our brand's voice:** users must recognize us regardless of the medium they're interacting with. Our brand's voice and principles must be taken into account in UX Writing.  
 - **Ambiguous microcopy:** we must be precise with UX text, so our users know how, when, why and what actions they need to take.   
-- **Frustrating our users:**: ux copy is what the user ultimately interacts with in a software. We must transmit trust, not trigger confusion.     
+- **Frustrating our users:** ux copy is what the user ultimately interacts with in a software. We must transmit trust, not trigger confusion.     
  
 
 ### Achieve
