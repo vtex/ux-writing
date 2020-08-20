@@ -19,7 +19,7 @@ UX Writing is the craft of designing the words that users see and interact with,
 
 ## What UX Writing is not
 
-UX Writing is not the same as creating content for blogs, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI, or APIs that developers interact with. 
+UX Writing is not the same as creating content for websites, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI, or APIs that developers interact with. 
 
 ## Who is this styleguide for?
 
