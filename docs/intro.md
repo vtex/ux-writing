@@ -25,7 +25,7 @@ UX Writing is not the same as creating content for blogs, social media, or docum
 
 UX writing is a collaborative craft in its essence.   
 
-In VTEX, we have different teams who collaborate to create the words on our experience. People from  Localization, Design, Product and Education teams usually take part in the UX Writing process.   
+In VTEX, we have different teams who collaborate to create the words on our experience. People from  *Localization, Design, Product and Education* teams usually take part in the UX Writing process.   
 
 We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in  UX Writing can count on, to create precise copy, alligned with our tone and voice, following best practices.   
 
