@@ -56,18 +56,18 @@ function Home() {
               linkTo="/docs"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              title="Our Principles"
+              description="Our brand's voice and strategy must be recognizable in every medium our users interact with."
               linkTo="/docs"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              title="Text Patterns"
+              description="The starting point to writing precise text for buttons, titles, error messages and more."
               linkTo="/docs"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
+              title="Tools and Processes"
+              description="Resources to guide you in drafting, editing and choosing the best microcopy."
               linkTo="/docs"
             />
           </div>
