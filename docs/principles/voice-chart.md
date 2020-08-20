@@ -11,11 +11,12 @@ A UX Writing Voice Chart is a tool designed by Torrey Podmajersky and described 
 
 ## When should I use the Voice Chart?
 
-This chart is your ally when writing microcopy. It can help you brainstorm, draft, edit and choose the right words. Have it with you whenever you are:
+This chart is your ally when writing microcopy. It can help you brainstorm, draft, edit and choose the right words. 
+Have it with you whenever you are:
 - Drafting UX copy, and seeking to allign it to our brand's voice.   
-- No sure which option is the best, from what you brainstormed.    
+- Not sure which option is the best, amongst the options you brainstormed.    
 - Editing your UX copy, adjusting grammar, punctuation and capitalization.  
-- Polishing your copy to make it alligned to VTEX and the user's goals.  
+- Polishing your copy to make it alligned to VTEX and user's goals.  
 
 Check out our [Process](/docs/first-steps/process) page for more details and suggestions. 
 
