@@ -68,5 +68,6 @@ Here you can find:
 - [Process](): to direct you to the best practices and steps present when writing microcopy.  
 - [Accessibility](): so we build for community.  
 - [Localization](): to write copy that is ready to go global.  
+- [Word List](): so we have consistent terminology. 
 
 
