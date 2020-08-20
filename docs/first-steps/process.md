@@ -48,7 +48,7 @@ Use this checklist to help you build a thorough localization request:
 ## I want to create UI Text
 
 
-UX Writing processes are rarely linear, especially when realized collaboratively. Below you can see the general phases present in our process. Be mindful that their order is flexible, and steps can often be repeated throughout the process. Keep in mind to use the [Voice Chart]() to guide you in all steps of your process.   
+UX Writing processes are rarely linear, especially when realized collaboratively. Below you can see the general phases present in our process. Be mindful that their order is flexible, and steps can often be repeated throughout the process. Keep in mind to use the [Voice Chart](/principles/voice-chart) to guide you in all steps of your process.   
 
 ### Research
 > Understand the component's behavior.  
