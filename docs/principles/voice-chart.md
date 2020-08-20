@@ -17,7 +17,7 @@ This chart is your ally when writing microcopy. It can help you brainstorm, draf
 - Editing your UX copy, adjusting grammar, punctuation and capitalization.  
 - Polishing your copy to make it alligned to VTEX and the user's goals.  
 
-Check out our [Process]() page for more details and suggestions. 
+Check out our [Process](/docs/first-steps/process) page for more details and suggestions. 
 
 
 
