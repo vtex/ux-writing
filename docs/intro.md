@@ -21,6 +21,16 @@ UX Writing is the craft of designing the words that users see and interact with,
 
 UX Writing is not the same as creating content for blogs, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI, or APIs that developers interact with. 
 
+## Who is this styleguide for?
+
+UX writing is a collaborative craft in its essence.   
+
+In VTEX, we have different teams who collaborate to create the words on our experience. People from  Localization, Design, Product and Education teams usually take part in the UX Writing process.   
+
+We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in  UX Writing can count on, to create precise copy, alligned with our tone and voice, following best practices.   
+
+We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.   
+
 
 ## Why follow UX Writing guidelines
 
@@ -58,13 +68,4 @@ Here you can find:
 - [Accessibility]() so we build for community.  
 - [Localization]() to write copy that is ready to go global.  
 
-## Who should use it
-
-UX writing is a collaborative craft in its essence.   
-
-In VTEX, we have different teams who collaborate to create the words on our experience. People from  Localization, Design, Product and Education teams usually take part in the UX Writing process.   
-
-We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in  UX Writing can count on, to create precise copy, alligned with our tone and voice, following best practices.   
-
-We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.   
 
