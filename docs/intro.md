@@ -12,7 +12,7 @@ sidebar_label: Getting Started
 
 UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. The text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts.
 
- Where can you find UX Writing in the VTEX context:  
+ Where can you find UX Writing, in our VTEX context:  
 - Our VTEX Commerce Admin  
 - Our stand alone products, like VTEX Tracking  
 - Our platform status page  
