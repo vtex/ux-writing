@@ -3,9 +3,6 @@ id: goals-principles
 title: Goals and Principles
 ---
 
-> 
-
-
 Our brand's voice is present when bringing awareness to our solutions, attracting customers and building a community. We must allign all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. Once a person becomes our client, and starts using our solutions, they should still recognize our voice. In this page we bring forth our Brand Principles, Tone and Voice and Writing guidelines to remind UX writers how UX copy should always be alligned with our product and brand's strategy. 
 
 
