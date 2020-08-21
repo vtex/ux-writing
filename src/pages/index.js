@@ -27,12 +27,12 @@ function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />"
+      description="UX Writing guidelines used in VTEX"
     >
       <header className={styles.heroBanner}>
         <div className="container">
-          <h1 className={styles.hero__title}>The right words, at the right time.</h1>
-          <p className={styles.hero__subtitle}>We craft precise microcopy, that transmits our brand’s voice, and achieves our user’s goals. Through this guide,  you will master the art of UX Writing at VTEX.  </p>
+          <h1 className={styles.hero__title}>The right words, with the right voice.</h1>
+          <p className={styles.hero__subtitle}>We craft precise microcopy, that transmits our brand’s voice, and achieves our user’s goals. Through this guide, you will master the art of UX Writing at VTEX. </p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -56,19 +56,19 @@ function Home() {
               linkTo="/docs"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
-              linkTo="/docs"
+              title="Our Principles"
+              description="Our brand's voice and strategy must be recognizable in every medium our users interact with."
+              linkTo="/docs/principles/goals-principles"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
-              linkTo="/docs"
+              title="Text Patterns"
+              description="The starting point to writing precise text for buttons, titles, error messages and more."
+              linkTo="/docs/text-patterns/titles"
             />
             <Topic
-              title="Getting Started"
-              description="What is UX Writing, why this guide exists, and how to get  the most out of it."
-              linkTo="/docs"
+              title="Tools and Processes"
+              description="Resources to guide you in drafting, editing and choosing the best microcopy."
+              linkTo="/docs/best-practices/a11y"
             />
           </div>
         </div>

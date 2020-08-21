@@ -6,14 +6,12 @@ title: Buttons
 > Triggers an action, or allows the user to advance a state. Where the user interacts with the screen.   
 
 ## Tone and Voice
-Keep in mind the Authority we want to transmit with our voice. Buttons are where the action takes place. We're always sure where we want to direct our users, so they can accomplish their goals. There's no space for ambiguity in the actions we guide them to take, we convey decisiveness.   
+Keep in mind the Authority we want to transmit with our voice. Buttons are where the action takes place. We're always sure where we want to direct our users to, so they accomplish their goals. There's no space for ambiguity in the actions we guide them to take, we convey decisiveness.   
 
 ## 👍 Dos
-- Avoid using more than 3 words.    
-- Buttons should be in all caps.    
-- Prefer imperative verbs.    
-- Prefer "Create" than "Add".   
-
+- Avoid using more than 3 words.      
+- Buttons should be in all caps.      
+- Prefer imperative verbs.           
 
 💡Example: Create account, Edit dock. 
 

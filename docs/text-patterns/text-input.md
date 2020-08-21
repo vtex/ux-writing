@@ -7,18 +7,17 @@ title: Text Input
 
 ## Tone and Voice
 
- We want to save our users' time when they input text, this is not the place for play, or ambiguity. As ecommerce authorities, we are precise, specific and meet the user's mental model.           
-
+ We want to save our users' time when they input text, this is not the place for play, or ambiguity. As ecommerce authorities we are precise, specific and meet the user's mental model.           
 
 
 ## 👍 Dos
 
-- Exemplify the exact values the  field supports.        
+- Show the exact values that the field supports.        
 - Be clear and straight to the point.      
 - Use messages, descriptions or tooltips to give more context, if needed.         
-- Avoid punctuation in Placeholder.        
+- Avoid punctuation in placeholders.        
 - Input label and placeholder must use sentence case.      
-- If an error occurs, give enough context to the user so they can solve it.      
+- If an error occurs, provide the user with context, so they can correct the text inputted initially.        
 
 ### Search Bars
 
@@ -30,8 +29,6 @@ You can follow this format:
 💡Examples  
 EN: **Search** for name, SKU **or** price  
 PT: **Busque** por nome, SKU, **ou** preço  
-
-
 
 
 ## 👎 Don'ts
