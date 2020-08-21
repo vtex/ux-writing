@@ -46,7 +46,8 @@ module.exports = {
         'best-practices/a11y',
         'best-practices/i18n',
         'best-practices/word-list',
-        'best-practices/process'
+        'best-practices/process',
+        'best-practices/contribute'
       ],
     },
   ],
