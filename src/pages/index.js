@@ -27,7 +27,7 @@ function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Description will go into a meta tag in <head />"
+      description="UX Writing guidelines used in VTEX"
     >
       <header className={styles.heroBanner}>
         <div className="container">
@@ -58,17 +58,17 @@ function Home() {
             <Topic
               title="Our Principles"
               description="Our brand's voice and strategy must be recognizable in every medium our users interact with."
-              linkTo="/docs"
+              linkTo="/docs/principles/goals-principles"
             />
             <Topic
               title="Text Patterns"
               description="The starting point to writing precise text for buttons, titles, error messages and more."
-              linkTo="/docs"
+              linkTo="/docs/text-patterns/titles"
             />
             <Topic
               title="Tools and Processes"
               description="Resources to guide you in drafting, editing and choosing the best microcopy."
-              linkTo="/docs"
+              linkTo="/docs/best-practices/a11y"
             />
           </div>
         </div>

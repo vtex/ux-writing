@@ -1,12 +1,7 @@
 ---
 id: process
-title: UX Writing Process
+title: UX Writing Process at VTEX
 ---
-
-
-
-# UX Writing Process at VTEX
-
 
 ## I want to request UI texts
 

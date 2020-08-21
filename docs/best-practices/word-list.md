@@ -4,3 +4,7 @@ title: Word List
 ---
 
 ## VTEX Glossary
+
+:::note
+Work in progress
+:::
