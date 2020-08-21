@@ -15,6 +15,18 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Best Practices and Tools',
+      collapsed: false,
+      items: [
+        'best-practices/a11y',
+        'best-practices/i18n',
+        'best-practices/word-list',
+        'best-practices/process',
+        'best-practices/contribute'
+      ],
+    },
+    {
+      type: 'category',
       label: 'Text Patterns',
       collapsed: false,
       items: [
@@ -30,18 +42,6 @@ module.exports = {
         'text-patterns/notifications',
         'text-patterns/errors',
         'text-patterns/apis'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Best Practices and Tools',
-      collapsed: false,
-      items: [
-        'best-practices/a11y',
-        'best-practices/i18n',
-        'best-practices/word-list',
-        'best-practices/process',
-        'best-practices/contribute'
       ],
     },
   ],
