@@ -6,12 +6,6 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'First Steps',
-      collapsed: false,
-      items: ['first-steps/contribute', 'first-steps/process'],
-    },
-    {
-      type: 'category',
       label: 'Principles',
       collapsed: false,
       items: [
