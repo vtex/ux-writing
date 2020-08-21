@@ -18,10 +18,10 @@ module.exports = {
       label: 'Best Practices and Tools',
       collapsed: false,
       items: [
-        'best-practices/a11y',
-        'best-practices/i18n',
-        'best-practices/word-list',
         'best-practices/process',
+        'best-practices/i18n',
+        'best-practices/a11y',
+        'best-practices/word-list',
         'best-practices/contribute'
       ],
     },
