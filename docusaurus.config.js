@@ -8,15 +8,9 @@ module.exports = {
   organizationName: 'VTEX',
   projectName: 'ux-writing',
 
-  plugins: ['@docusaurus/plugin-google-analytics', '@docusaurus/plugin-google-gtag'],
+  plugins: ['@docusaurus/plugin-google-gtag'],
 
   themeConfig: {
-
-    googleAnalytics: {
-      trackingID: 'UA-43760863-28',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
-    },
     gtag: {
       trackingID: 'UA-43760863-28',
       // Optional fields.
