@@ -66,7 +66,7 @@ Torrey Podmajersky's book, [*Strategic Writing for UX*](https://www.amazon.com.b
 Here you can find:
 - [Voice Chart](/docs/principles/voice-chart): to guide you in drafting, editing and choosing the best microcopy.  
 - [Text Patterns](/docs/text-patterns/titles): so you'll have a starting point to write precise text for buttons, titles, error messages and more.  
-- [Process](/docs/first-steps/process): to direct you to the best practices and steps present when writing microcopy.  
+- [Process](/docs/best-practices/process): to direct you to the best practices and steps present when writing microcopy.  
 - [Accessibility](/docs/best-practices/a11y): so we build for community.  
 - [Localization](/docs/best-practices/i18n): to write copy that is ready to go global.  
 - [Word List](/docs/best-practices/word-list): so we have consistent terminology. 
