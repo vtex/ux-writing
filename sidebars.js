@@ -6,17 +6,23 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'First Steps',
-      collapsed: false,
-      items: ['first-steps/contribute', 'first-steps/process'],
-    },
-    {
-      type: 'category',
       label: 'Principles',
       collapsed: false,
       items: [
         'principles/goals-principles',
         'principles/voice-chart',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Best Practices and Tools',
+      collapsed: false,
+      items: [
+        'best-practices/process',
+        'best-practices/i18n',
+        'best-practices/a11y',
+        'best-practices/word-list',
+        'best-practices/contribute'
       ],
     },
     {
@@ -36,16 +42,6 @@ module.exports = {
         'text-patterns/notifications',
         'text-patterns/errors',
         'text-patterns/apis'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Best Practices and Tools',
-      collapsed: false,
-      items: [
-        'best-practices/a11y',
-        'best-practices/i18n',
-        'best-practices/word-list',
       ],
     },
   ],

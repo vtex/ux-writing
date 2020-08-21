@@ -66,7 +66,7 @@ function Home() {
               linkTo="/docs/text-patterns/titles"
             />
             <Topic
-              title="Tools and Processes"
+              title="Tools and Best Practices"
               description="Resources to guide you in drafting, editing and choosing the best microcopy."
               linkTo="/docs/best-practices/a11y"
             />

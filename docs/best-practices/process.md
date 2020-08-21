@@ -34,10 +34,12 @@ Use this checklist to help you build a thorough localization request:
 
 1. Provide already edited microcopy, in your native language.
 2. Give the localization team access to Figma files, or screenshots of where the microcopy will be located on screen.
-3. Provide lots of context around the microcopy. Some questions you can answer:
-    - What is this button’s expected behavior?
-    - What does this term mean in our VTEX context?
-    - What is the action the user is trying to accomplish?
+3. Provide lots of context around the microcopy. 
+> Some questions you can answer:  
+    - What is this button’s expected behavior?  
+    - What is the message you're trying to convey?    
+    - What does this word mean, in our VTEX context?      
+    - What is the action the user is trying to accomplish?    
 
 
 
