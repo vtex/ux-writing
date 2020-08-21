@@ -18,7 +18,7 @@ Have it with you whenever you are:
 - Editing your UX copy, adjusting grammar, punctuation and capitalization.  
 - Polishing your copy to make it aligned to VTEX and user's goals.  
 
-Check out our [Process](/docs/first-steps/process) page for more details and suggestions. 
+Check out our [Process](/docs/best-practices/process) page for more details and suggestions. 
 
 
 
