@@ -7,16 +7,12 @@ module.exports = {
   favicon: 'img/logo.svg',
   organizationName: 'VTEX',
   projectName: 'ux-writing',
-
-  plugins: ['@docusaurus/plugin-google-gtag'],
-
   themeConfig: {
     gtag: {
+      id: 'googleAnalyticsTag',
       trackingID: 'UA-43760863-28',
-      // Optional fields.
-      anonymizeIP: true, // Should IPs be anonymized?
+      anonymizeIP: true,
     },
-
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
