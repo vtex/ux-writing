@@ -9,9 +9,8 @@
   padding: 20vh 0;
   position: relative;
   overflow: hidden;
-  background: url(../../static/img/herobg.jpg);
+  background: url(../../static/img/herobg.jpg) bottom right;
   background-size: cover;
-  background-position: bottom right;
 }
 
 .hero__title {
