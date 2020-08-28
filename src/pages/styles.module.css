@@ -6,10 +6,11 @@
  */
 
 .heroBanner {
-  padding: 8rem 0;
-  text-align: center;
+  padding: 20vh 0;
   position: relative;
   overflow: hidden;
+  background: url(../../static/img/herobg.jpg) bottom right;
+  background-size: cover;
 }
 
 .hero__title {
@@ -27,7 +28,7 @@
 
 .hero__subtitle {
   width: 80%;
-  margin: 24px auto;
+  margin: 24px 0;
   font-size: 1.25rem !important;
   line-height: 150%;
 
@@ -35,19 +36,13 @@
 
 .topics {
   background-color: #FFF3F6;
-  padding: 90px 0px;
+  padding: 40px 0px 80px;
 }
 
 @media screen and (max-width: 966px) {
   .heroBanner {
     padding: 2rem;
   }
-}
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .button__secondary {
