@@ -44,7 +44,8 @@ Our biggest usability challenge is how to make the CLI instructions and messages
 | Bug          | Start the message with "Error". Then indicate which error occurred, and explain what happened. Finalize the message by pointing out how to avoid the problem, or what to do next.   |
 | Success      | Start the message with "Success". Then communicate what happened with complete sentences, and what was the impact to the application.              |
 
-💡Examples 
+💡Examples   
+
 *Right! We are creating a workspace that works like a sandbox: the changes you make will impact only on the {{workspace name}} workspace until you publish them. (^C to quit).* 
 
 
@@ -57,8 +58,9 @@ Our biggest usability challenge is how to make the CLI instructions and messages
 - Toolbelt guides the user telling what they need to do to keep going.  
 
 
-💡Examples 
- If they run a command that needs a workspace to work, we inform that and give the option to create a workspace with `Y/n` 
+💡Examples  
+
+If they run a command that needs a workspace to work, we inform that and give the option to create a workspace with `Y/n` 
 
 
  ## Commands
