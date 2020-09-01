@@ -64,7 +64,7 @@ If they run a command that needs a workspace to work, we inform that and give th
 
 
  ## Commands
-S
+
  > We communicate what they do and why it matters.
 
 - Command Syntax needs *consistency*.
