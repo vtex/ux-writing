@@ -64,13 +64,12 @@ If they run a command that needs a workspace to work, we inform that and give th
 
 
  ## Commands
-
+S
  > We communicate what they do and why it matters.
 
 - Command Syntax needs *consistency*.
 - *Flags* are how complementary commands are written.
-There is no variation between the use of `-` or `--`. Prefer using `--`, since it is the most common flag on our commands. 
-
+There is no practical implication between the use of `-` or `--`. However, we recommend using `--`, since it is the most common flag on our commands, and we aim for consistency.
 
 
 ## Colors 
