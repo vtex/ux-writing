@@ -1,19 +1,19 @@
 ---
 id: toolbelt
-title: Toolbelt - VTEX Command Line Interface
+title: Toolbelt - VTEX IO Command Line Interface
 ---
 
-# What is Toolbelt
+## What is Toolbelt
 
-VTEX's CLI, or Toolbelt, provides an informative experience to our users, focused on showing what can be done with the tool and the impact that actions have on their applications. We support users from all levels of expertise, creating interaction layers that allow both simple update tasks and also complex debug challenges. 
+VTEX IO's CLI, or Toolbelt, provides an informative experience to our users, focused on showing what can be done with the tool and the impact that actions have on their applications. We support users from all levels of expertise, creating interaction layers that allow both simple update tasks and also complex debug challenges. 
 
 
-## Tone and Voice
+### Tone and Voice
 
 We don't need to create a tool free of errors, but one that gives our users information about how to overcome them, giving the feeling of being in control. This is where authority comes in place. 
 
 
-## Usability challenges
+### Usability challenges
 
 Our biggest usability challenge is how to make the CLI instructions and messages self-sufficient. 
 
