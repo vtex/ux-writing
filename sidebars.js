@@ -41,7 +41,8 @@ module.exports = {
         'text-patterns/confirmation-messages',
         'text-patterns/notifications',
         'text-patterns/errors',
-        'text-patterns/apis'
+        'text-patterns/apis',
+        'text-patterns/toolbelt-cli'
       ],
     },
   ],
