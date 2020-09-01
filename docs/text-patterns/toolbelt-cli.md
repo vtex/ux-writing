@@ -40,7 +40,7 @@ Our biggest usability challenge is how to make the CLI instructions and messages
 
 | Message type | Do's                                                                                                                                |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Info         | Show only success, error, or instructive messages. Remove all extra information on the commands. To see more, user may run —verbose |
+| Info         | Show only success, error, or instructive messages. Remove all extra information on the commands. To see more, user may run `-—verbose` |
 | Bug          | Start the message with "Error". Then indicate which error occurred, and explain what happened. Finalize the message by pointing out how to avoid the problem, or what to do next.   |
 | Success      | Start the message with "Success". Then communicate what happened with complete sentences, and what was the impact to the application.              |
 
@@ -68,9 +68,9 @@ If they run a command that needs a workspace to work, we inform that and give th
  > We communicate what they do and why it matters.
 
 - Command Syntax needs *consistency*.
+- *Flags* are how complementary commands are written.
+There is no variation between the use of `-` or `--`. Prefer using `--`, since it is the most common flag on our commands. 
 
-You should declare the pattern `-- verbose` as `-verbose` if `-help` calls for help.   
-Note: if we use only one "-" in the flag.  
 
 
 ## Colors 
@@ -80,3 +80,6 @@ Note: if we use only one "-" in the flag.
 - It can help users recognize what is a command, what is a success message, for example.  
 - Use colors, icons, and emojis to make it easier for our users to scan what the CLI is returning.   
 - It is possible that users learn what our colors mean and use them as decision fuel.  
+
+
+
