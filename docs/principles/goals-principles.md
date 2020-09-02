@@ -25,7 +25,9 @@ Boldness is about challenging the status quo and not being afraid to make mistak
 ## Tone and Voice
 
 
-Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. There are other characteristics present in our brand manual, that also define our tone and voice. However, for UX Writing, we chose to keep only the ones below, for we understand that they capture the reliability our system's voice should have. 
+Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. There are other characteristics present in our brand manual, that also define our tone and voice. 
+
+However, for UX Writing, we chose to keep only **Serious** and **Authority**. We understand that they capture the reliability, accessibility and expertise our system's voice should have. 
 
 
 ### 📣 Serious
@@ -39,6 +41,29 @@ We speak firmly, respectfully and honestly—always with a tone that’s more se
 We are the e-commerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
 
 **Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
+
+
+### 📣 Exclusive
+
+We're at the top of the game. We talk to CEOs, CTOs, sales directors, and high-level management. That means VTEX must communicate accordingly.
+
+**Exclusive, not arrogant:** Because we aim our communication efforts at enterprise-level companies, we must add sophistication to our messages, while keeping them simple and clear. Good taste is the key here.
+
+
+
+### 📣 Rebel
+
+We are not afraid of making mistakes, because we learn from them and become better as a company. But we are not reckless: We are just bold enough to develop the innovations that will disrupt the market.
+
+**Rebel, not inconsequent:** It's part of our nature to question absolute truths. We constantly challenge ourselves, and our content must do the same. Being bold is the key to that
+
+
+
+### 📣 Young
+
+We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
+
+**Young, not naive:** We must show our passion for tech and commerce and the energy we put on everything we do. Keep the content fresh and pleasant.
 
 
 
