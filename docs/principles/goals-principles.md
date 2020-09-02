@@ -64,7 +64,7 @@ We are not afraid of making mistakes, because we learn from them and become bett
 
 
 ### 📣 Young
-🔴⚪⚪⚪⚪
+🔴🔴⚪⚪⚪
 
 We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
 
