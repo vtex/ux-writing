@@ -25,15 +25,15 @@ Boldness is about challenging the status quo and not being afraid to make mistak
 ## Tone and Voice
 
 
-Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. There are other characteristics present in our brand manual, that also define our tone and voice. 
+Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. 
 
-However, for UX Writing, we chose to keep only **Serious** and **Authority**. We understand that they capture the reliability, accessibility and expertise our system's voice should have. 
+On our platforms we deal with sensitive data, and our client's results. It demmands responsibility and respect from the way we communicate. Therefore, for UX Writing, we choose to favor the **Serious** and **Authority** tones, from our Brand Manual. We understand that they capture the reliability and expertise our system's voice should have. 
 
 
 ### 📣 Serious
 🔴🔴🔴🔴🔴
 
-We speak firmly, respectfully and honestly—always with a tone that’s more serious than playful.
+We speak firmly, respectfully and honestly — always with a tone that’s more serious than playful.
 
 **Serious, not playful:** To build trust, we must avoid jokes, puns, and everything that may sound ambiguous. Being straightforward and honest is the key.
 
