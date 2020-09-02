@@ -72,7 +72,7 @@ We have the energy and the attitude to accelerate the transformations that will 
 
 
 
-## Brand's Writing Principles
+## Writing Principles
 
 ### 📝 Clarity
 
