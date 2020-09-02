@@ -31,30 +31,31 @@ However, for UX Writing, we chose to keep only **Serious** and **Authority**. We
 
 
 ### 📣 Serious
-
-<i class="fas fa-star"></i> <i class="far fa-star"></i>
-
+🔴🔴🔴🔴🔴
 
 We speak firmly, respectfully and honestly—always with a tone that’s more serious than playful.
 
 **Serious, not playful:** To build trust, we must avoid jokes, puns, and everything that may sound ambiguous. Being straightforward and honest is the key.
 
+
 ### 📣 Authority
+🔴🔴🔴🔴🔴
 
 We are the e-commerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
 
 **Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
 
 
-### 📣 Exclusive
+### 📣 Exclusive 
+🔴⚪⚪⚪⚪
 
 We're at the top of the game. We talk to CEOs, CTOs, sales directors, and high-level management. That means VTEX must communicate accordingly.
 
 **Exclusive, not arrogant:** Because we aim our communication efforts at enterprise-level companies, we must add sophistication to our messages, while keeping them simple and clear. Good taste is the key here.
 
 
-
 ### 📣 Rebel
+🔴⚪⚪⚪⚪
 
 We are not afraid of making mistakes, because we learn from them and become better as a company. But we are not reckless: We are just bold enough to develop the innovations that will disrupt the market.
 
@@ -63,6 +64,7 @@ We are not afraid of making mistakes, because we learn from them and become bett
 
 
 ### 📣 Young
+🔴⚪⚪⚪⚪
 
 We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
 
