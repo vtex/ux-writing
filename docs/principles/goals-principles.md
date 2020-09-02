@@ -46,6 +46,14 @@ We are the e-commerce bastions. When speaking to others, we talk with mastery, p
 **Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
 
 
+### 📣 Young
+🔴🔴⚪⚪⚪
+
+We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
+
+**Young, not naive:** We must show our passion for tech and commerce and the energy we put on everything we do. Keep the content fresh and pleasant.
+
+
 ### 📣 Exclusive 
 🔴⚪⚪⚪⚪
 
@@ -59,16 +67,7 @@ We're at the top of the game. We talk to CEOs, CTOs, sales directors, and high-l
 
 We are not afraid of making mistakes, because we learn from them and become better as a company. But we are not reckless: We are just bold enough to develop the innovations that will disrupt the market.
 
-**Rebel, not inconsequent:** It's part of our nature to question absolute truths. We constantly challenge ourselves, and our content must do the same. Being bold is the key to that
-
-
-
-### 📣 Young
-🔴🔴⚪⚪⚪
-
-We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
-
-**Young, not naive:** We must show our passion for tech and commerce and the energy we put on everything we do. Keep the content fresh and pleasant.
+**Rebel, not inconsequent:** It's part of our nature to question absolute truths. We constantly challenge ourselves, and our content must do the same. Being bold is the key to that.
 
 
 
