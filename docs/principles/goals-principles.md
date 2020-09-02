@@ -32,6 +32,9 @@ However, for UX Writing, we chose to keep only **Serious** and **Authority**. We
 
 ### 📣 Serious
 
+<i class="fas fa-star"></i> <i class="far fa-star"></i>
+
+
 We speak firmly, respectfully and honestly—always with a tone that’s more serious than playful.
 
 **Serious, not playful:** To build trust, we must avoid jokes, puns, and everything that may sound ambiguous. Being straightforward and honest is the key.
