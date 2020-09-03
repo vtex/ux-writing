@@ -1,5 +1,5 @@
 ---
-id: toolbelt
+id: toolbelt-cli
 title: Toolbelt - VTEX IO Command Line Interface
 ---
 
