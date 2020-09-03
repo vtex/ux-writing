@@ -27,7 +27,7 @@ Boldness is about challenging the status quo and not being afraid to make mistak
 
 Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message. 
 
-On our platforms we deal with sensitive data, and our client's results. It demmands responsibility and respect from the way we communicate. Therefore, for UX Writing, we choose to favor the **Serious** and **Authority** tones, from our Brand Manual. We understand that they capture the reliability and expertise our system's voice should have. 
+On our platforms we deal with sensitive data, and our client's results. It demmands responsibility and respect in how we communicate. Therefore, for UX Writing, we choose to favor the **Serious** and **Authority** tones, from our Brand Manual. We understand that they capture the reliability and expertise our system's voice should have. 
 
 
 ### 📣 Serious
