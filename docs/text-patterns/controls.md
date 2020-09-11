@@ -22,7 +22,7 @@ Adding controls to a screen is a useful way of making configurations more user-f
 
 - Prefer direct, short phrases, without passive voice.
 - Use sentence case.
-- Add punctuation at the end of sentences.
+- No punctuation.
 - Maximum of 3 words. 
 
 
