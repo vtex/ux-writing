@@ -20,10 +20,10 @@ Adding controls to a screen is a useful way of making configurations more user-f
 
 ### Grammar
 
-- Prefer direct, short phrases, without passive voice.
-- Use sentence case.
-- No punctuation.
-- Maximum of 3 words. 
+- Prefer direct, short phrases, without passive voice.  
+- Use sentence case.  
+- No punctuation.  
+- Maximum of 3 words.   
 
 
 ## 👎 Don'ts
