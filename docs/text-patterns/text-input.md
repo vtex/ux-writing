@@ -19,11 +19,11 @@ title: Text Input
 
 ### Grammar
 
-- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.
-- Prefer direct sentences, without passive voice.
-- Use sentence case.
-- No punctuation. 
-- Maximum of 3 words. 
+- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.  
+- Prefer direct sentences, without passive voice.  
+- Use title case.  
+- No punctuation.   
+- Maximum of 3 words.   
 
 ### Search Bars
 
