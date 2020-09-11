@@ -13,10 +13,17 @@ Adding controls to a screen is a useful way of making configurations more user-f
 
 - Use titles to group related controls.      
 - Choose words that are aligned with our ecommerce vocabulary.        
-- You can write the current state of the control, to improve accessibility.            
+- Write the current state of the control, to improve accessibility.            
 - Add descriptions if the control is critical, or complex.        
 
 💡Examples:
+
+### Grammar
+
+- Prefer direct, short phrases, without passive voice.  
+- Use sentence case.  
+- No punctuation.  
+- Maximum of 3 words.   
 
 
 ## 👎 Don'ts

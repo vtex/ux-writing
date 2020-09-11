@@ -8,7 +8,7 @@ title: Titles
 
 ## Tone and Voice
 We are ecommerce specialists. We are specific, and avoid ambiguity. Our titles must match the industry's jargons, and the users' mental model. Choose titles that seem intuitive, given what we master about ecommerce. Users should instantly recognize the section's purpose, through the title.    
-Titles are vital aspects of information architecture. Before naming a section, understand the its purpose and how it contributes to the bigger picture. Be mindful of how we transmit seriousness and reliability when naming screens.   
+Titles are vital aspects of information architecture. Before naming a section, understand its purpose and how it contributes to the bigger picture. Be mindful of how we transmit seriousness and reliability when naming screens.   
 
 ## 👍Do's  
 
@@ -18,6 +18,14 @@ Titles are vital aspects of information architecture. Before naming a section, u
     - Referring to branded names       
     - Grouping ambiguous tasks         
     - Indicating single tasks        
+
+### Grammar
+
+- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.  
+- Prefer key words, rather than sentences.  
+- Use title case.    
+- No punctuation.     
+- Maximum of 4 words.     
 
 ### Brand name
 

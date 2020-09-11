@@ -14,10 +14,15 @@ title: Text Input
 
 - Show the exact values that the field supports.        
 - Be clear and straight to the point.      
-- Use messages, descriptions or tooltips to give more context, if needed.         
-- Avoid punctuation in placeholders.        
-- Input label and placeholder must use sentence case.      
-- If an error occurs, provide the user with context, so they can correct the text inputted initially.        
+- Use messages, descriptions or tooltips to give more context, if needed.                     
+- If an error occurs, provide the user with context, so they can correct the text inputted initially.    
+
+### Grammar
+
+- Prefer key words, rather than sentences.   
+- Use Sentence case.    
+- No punctuation.   
+- Maximum of 4 words.   
 
 ### Search Bars
 

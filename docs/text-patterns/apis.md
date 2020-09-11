@@ -3,15 +3,15 @@ id: apis
 title: APIs
 ---
 
-UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy users, API's are the VTEX interface that they deal with. Their Developer Experience is a component of the general User Experience that we build, and influences how our brand and product is perceived. A well designed API, with clear terminology, that applies UX Writing practices is the frictionless, polished experience we want our users to have.
+UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy users, APIs are the VTEX interface that they deal with. Their Developer Experience is a component of the general User Experience that we build, and influences how our brand and product are perceived. A well architected API, with clear terminology, that applies UX Writing practices is the frictionless, polished experience we want our users to have.
 
 ## API: Information Architecture
 
-> Be mindful of the system's information architecture when building the API calls. This is the basis for an excellent and intuitive Developer Experience.  
+> Be mindful of the system's information architecture when building API calls. This is the basis for an excellent and intuitive Developer Experience.  
 
 - Routes, URLs, attributes, request and response bodies are API's structural definitions. They directly affect the developer's experience, and how the documentation is built and consumed.     
 - Be consistent while naming attributes, always mirror what the user would see in the UI.    
-- Be consistent when defining data structure.     
+- Be consistent when defining data structure.       
 
 💡Examples: an object that represents a gift card should be the same in all endpoints, throughout VTEX.    
 
