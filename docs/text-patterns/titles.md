@@ -8,7 +8,7 @@ title: Titles
 
 ## Tone and Voice
 We are ecommerce specialists. We are specific, and avoid ambiguity. Our titles must match the industry's jargons, and the users' mental model. Choose titles that seem intuitive, given what we master about ecommerce. Users should instantly recognize the section's purpose, through the title.    
-Titles are vital aspects of information architecture. Before naming a section, understand the its purpose and how it contributes to the bigger picture. Be mindful of how we transmit seriousness and reliability when naming screens.   
+Titles are vital aspects of information architecture. Before naming a section, understand its purpose and how it contributes to the bigger picture. Be mindful of how we transmit seriousness and reliability when naming screens.   
 
 ## 👍Do's  
 
