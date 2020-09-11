@@ -14,10 +14,16 @@ title: Text Input
 
 - Show the exact values that the field supports.        
 - Be clear and straight to the point.      
-- Use messages, descriptions or tooltips to give more context, if needed.         
-- Avoid punctuation in placeholders.        
-- Input label and placeholder must use sentence case.      
-- If an error occurs, provide the user with context, so they can correct the text inputted initially.        
+- Use messages, descriptions or tooltips to give more context, if needed.                     
+- If an error occurs, provide the user with context, so they can correct the text inputted initially.    
+
+### Grammar
+
+- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.
+- Prefer direct sentences, without passive voice.
+- Use sentence case.
+- No punctuation. 
+- Maximum of 3 words. 
 
 ### Search Bars
 
