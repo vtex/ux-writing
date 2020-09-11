@@ -7,11 +7,11 @@ UX Writing guidelines aren't just suited for a product's UI. For our tech-heavy 
 
 ## API: Information Architecture
 
-> Be mindful of the system's information architecture when building the API calls. This is the basis for an excellent and intuitive Developer Experience.  
+> Be mindful of the system's information architecture when building API calls. This is the basis for an excellent and intuitive Developer Experience.  
 
 - Routes, URLs, attributes, request and response bodies are API's structural definitions. They directly affect the developer's experience, and how the documentation is built and consumed.     
 - Be consistent while naming attributes, always mirror what the user would see in the UI.    
-- Be consistent when defining data structure.     
+- Be consistent when defining data structure.       
 
 💡Examples: an object that represents a gift card should be the same in all endpoints, throughout VTEX.    
 
