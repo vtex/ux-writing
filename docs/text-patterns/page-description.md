@@ -20,11 +20,11 @@ We trust to be trusted. We're serious, and we never alarm users, we soothe their
 
 ### Grammar
 
-- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.
-- Prefer direct sentences, without passive voice.
-- Use sentence case.
-- Add punctuation at the end of sentences. Use exclamation marks carefully. 
-- Maximum of 2 sentences. Break down longer sentences if it adds clarity.
+- We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.  
+- Prefer direct sentences, without passive voice.  
+- Use sentence case.  
+- Add punctuation at the end of sentences. Use exclamation marks carefully.   
+- Maximum of 2 sentences. Break down longer sentences if it adds clarity.  
 
 💡Example:
 
