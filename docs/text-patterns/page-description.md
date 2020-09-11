@@ -16,7 +16,7 @@ We trust to be trusted. We're serious, and we never alarm users, we soothe their
 - Make descriptions as scannable as possible. Users usually skim through, or skip descriptions entirely.    
 - Descriptions should be clear, never ambiguous.    
 - They should be present anywhere there's a sensitive action taking place. Make sure the user understands the implications of changing a setting, for example.    
-- When adding definitions, always use our Glossary as the source of truth.       
+- When adding definitions, **always** use our [Glossary](/docs/best-practices/word-list) as the source of truth.       
 
 ### Grammar
 
