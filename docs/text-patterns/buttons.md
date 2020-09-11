@@ -18,6 +18,7 @@ Keep in mind the Authority we want to transmit with our voice. Buttons are where
 
 - Avoid using more than 3 words.        
 - Buttons should be in all caps.        
+- Text buttons should use Title case.  
 - Prefer imperative verbs.       
 - No punctuation.        
 
