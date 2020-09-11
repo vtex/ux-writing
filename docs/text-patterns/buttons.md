@@ -9,9 +9,17 @@ title: Buttons
 Keep in mind the Authority we want to transmit with our voice. Buttons are where the action takes place. We're always sure where we want to direct our users to, so they accomplish their goals. There's no space for ambiguity in the actions we guide them to take, we convey decisiveness.   
 
 ## 👍 Dos
+
+- Buttons should be completely straight-forward. Absolutely no room for ambiguity.
+- The behavior they trigger must reflect the exact action that is written.
+
+
+### Grammar
+
 - Avoid using more than 3 words.      
 - Buttons should be in all caps.      
-- Prefer imperative verbs.           
+- Prefer imperative verbs.     
+- No punctuation.      
 
 💡Example: Create account, Edit dock. 
 
