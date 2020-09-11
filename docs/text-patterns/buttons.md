@@ -16,10 +16,10 @@ Keep in mind the Authority we want to transmit with our voice. Buttons are where
 
 ### Grammar
 
-- Avoid using more than 3 words.      
-- Buttons should be in all caps.      
-- Prefer imperative verbs.     
-- No punctuation.      
+- Avoid using more than 3 words.        
+- Buttons should be in all caps.        
+- Prefer imperative verbs.       
+- No punctuation.        
 
 💡Example: Create account, Edit dock. 
 
