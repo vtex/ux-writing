@@ -45,7 +45,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} VTEX. This work is available under a Creative Commons Attribution-NonCommercial 4.0 International License.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VTEX. This work is available under a Creative Commons Attribution-NonCommercial 4.0 International License. It was inspired by Torrey Podmajersky's book, Strategic Writing for UX, published by O'Reilly Media, Inc. in June 2019. We seek to educate our community about UX Writing in VTEX's context, with no commercial intention.`,
     },
   },
   presets: [
