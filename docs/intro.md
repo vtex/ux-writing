@@ -7,7 +7,7 @@ sidebar_label: Getting Started
 ## What is UX Writing
 
 
-> "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - **Torrey Podmajersky**, Strategic Writing for UX
+> "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - **Torrey Podmajersky, Strategic Writing for UX**, published by O'Reilly Media, Inc. in June 2019
 
 
 UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. Text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts.
@@ -32,6 +32,8 @@ In VTEX, we have different teams who collaborate to create the words on our expe
 We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in  UX Writing can count on, to create precise copy, aligned with our tone and voice, following best practices.   
 
 We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.   
+
+This guide was developed seeking to educate our community about UX Writing in VTEX's context, with no commercial intention. 
 
 
 ## Why follow UX Writing guidelines
@@ -58,7 +60,7 @@ By defining clear UX Writing guidelines, we wish to:
 
 The Education and Design teams conducted an internal research to map how we previously dealt with UX Writing. We identified what frictions were present in our process, and what resources were missing so we could create the best microcopy collaboratively. This styleguide is the result of the research's effort, to improve how we manage UX Writing in VTEX.
 
-Torrey Podmajersky's book, [*Strategic Writing for UX*](https://torreypodmajersky.com/2019/07/05/strategic-writing-for-ux/), has been a major reference for this guide's content and structure. She's been an expert on this field for over 10 years, and you'll see many quotations and concepts from her book here, always directly cited. 
+Torrey Podmajersky's book, [*Strategic Writing for UX*](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/), published by O'Reilly Media, Inc. in June 2019, has been a major reference for this guide's content and structure. She's been an expert on this field for over 10 years, and you'll see many quotations and concepts from her book here, always directly cited. 
 
 
 ## What does it contain
