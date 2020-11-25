@@ -11,12 +11,18 @@ Adding controls to a screen is a useful way of making configurations more user-f
 
 ## 👍 Dos
 
+- Controls can be found in the following forms, each one with a particular use case:  
+  - Toggles  
+  - Checkboxes  
+  - Radio buttons  
 - Use titles to group related controls.      
 - Choose words that are aligned with our ecommerce vocabulary.        
-- Write the current state of the control, to improve accessibility.            
-- Add descriptions if the control is critical, or complex.        
+- Write the current state of the control, to improve accessibility. The label should describe what the control will do when the switch is on.             
+- Add descriptions if the control is critical, or complex.            
+- Choose different nouns and key words for each option.        
+- Choose imperative verbs for actions.  
+- Choose nouns or key words for states.  
 
-💡Examples:
 
 ### Grammar
 
@@ -26,8 +32,5 @@ Adding controls to a screen is a useful way of making configurations more user-f
 - Maximum of 3 words.   
 
 
-## 👎 Don'ts
 
-
-💡Examples:
 
