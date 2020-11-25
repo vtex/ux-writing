@@ -17,12 +17,20 @@ Empty states mean opportunities for growth or improvements. This is where our co
 - We usually avoid exclamation marks, but this is where an exception can be made. If it's exciting news, provoke an emotional response with punctuation.    
 - Remember that empty states should be informative, not only emotional. Teach users what data should be present in the empty state.     
 
-💡Examples
+💡Examples:
+"You've cleared your notifications for the day!"
+"Congratulations, there are no more pending offers to review!"
+"Start reviewing your received offers"
 
 ### Negative states
 - If the state is potentially negative, or if it was not the user's expectation, don't alarm them.       
 - Explain why this state is happening and how they can solve it, with direct actions.    
-- Guide them to the solution by adding adjacent buttons, or linking related documentation.  
+- Guide them to the solution by adding adjacent buttons, or linking related documentation.
+
+💡Examples:
+"There are no new orders - for now. Check out our blog for insightful sales content."
+"Start adding products to your store to find SKUs here."
+
 
 ### Grammar
 
@@ -34,7 +42,7 @@ Empty states mean opportunities for growth or improvements. This is where our co
 
 ## 👎 Don'ts
 
-- Avoid emojis as the single source of communication in empty states. They lack the seriousness we must convey.     
+- Avoid emojis as the single source of communication in empty states. They lack the seriousness we must convey. Prefer illustrations paired with text.
 - Don't trigger anxiety with empty states. Be mindful of the balance between emphasis and stress.    
 
-💡Examples
+
