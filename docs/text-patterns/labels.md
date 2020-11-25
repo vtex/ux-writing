@@ -15,8 +15,8 @@ Labels should help users, and not become the text that they skip while skimming 
 - Make it as brief and clear as possible.    
 - Meet the user's mental model, use ecommerce vocabulary.    
 - If you think a label should have more clarification about its meaning, you can use a tooltip.    
+- Feel free to consult our Glossary so your labels are consistent.  
 
-💡Examples
 
 ### Grammar
 
@@ -26,7 +26,3 @@ Labels should help users, and not become the text that they skip while skimming 
 - No punctuation.  
 - Maximum of 3 words.   
 
-## 👎 Don'ts
-
-
-💡Examples
