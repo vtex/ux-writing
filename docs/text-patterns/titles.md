@@ -12,12 +12,18 @@ Titles are vital aspects of information architecture. Before naming a section, u
 
 ## 👍Do's  
 
-- Always name sections with titles. They clarify the context, facilitate documentation, and allow users to point out where their troubles are, in support tickets.        
+- Always name sections with titles. They clarify the context, facilitate documentation, and allow users to point out where their troubles are, in support tickets. Titles should be present in the following components:
+    - Page headers (keep in mind that a page's title should mirror the labels used on the left navigation bar.)
+    - Cards
+    - Modals
+    - Error messages
+    - Forms
+    - Grouping similar checkboxes, toggles or radio buttons
 - Always use title case.    
 - Titles may be used in the following contexts:    
     - Referring to branded names       
     - Grouping ambiguous tasks         
-    - Indicating single tasks        
+    - Indicating single tasks     
 
 ### Grammar
 
@@ -34,8 +40,7 @@ Titles are vital aspects of information architecture. Before naming a section, u
 - VTEX should always be on All Caps.   
 - Be mindful how other VTEX branded terms are written. They should be consistent throughout our platform and communication strategies.     
 
-💡Examples 
-SmartCheckout, inStore, VTEX Payment.
+💡Example: SmartCheckout, inStore, VTEX Payment.
 
 ![img](../../static/img/text-patterns/titles/Example.png)  
 
