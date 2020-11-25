@@ -5,7 +5,8 @@ title: Contribute
 
 ## How to contribute
 
-Hey! It's really nice that you are interested in taking part in this work. There are three main ways to do it:
+Yay, you're in the contribute page! UX Writing in VTEX is a collaborative effort. We want to make contributing to this project as easy and transparent as possible, and this document aims to guide you through the process. You can contribute to this styleguide in three major ways:  
+
 
 ### Taking part in discussions
 
