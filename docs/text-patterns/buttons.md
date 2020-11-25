@@ -22,7 +22,18 @@ Keep in mind the Authority we want to transmit with our voice. Buttons are where
 - Prefer imperative verbs.       
 - No punctuation.        
 
-💡Example: Create account, Edit dock. 
+### Default examples
+
+So we have consistency throughout the actions that buttons represent, we suggest that you use the following verbs when crafting buttons.
+
+| EN     | PT      | ES      |
+|--------|---------|---------|
+| Create | Criar   | Crear   |
+| Edit   | Editar  | Editar  |
+| Search | Buscar  | Buscar  |
+| Save   | Salvar  | Guardar |
+| Delete | Excluir | Excluir |
+
 
 ### Icons as buttons
 - When using icons as buttons, be mindful of accessibility, always include descriptions in the alt tag.    
@@ -30,5 +41,4 @@ Keep in mind the Authority we want to transmit with our voice. Buttons are where
 
 💡Example:  "←", "⚙️Settings"
 
-## 👎 Don'ts
 
