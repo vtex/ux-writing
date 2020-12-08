@@ -40,7 +40,7 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 #### Alert/notification component
 
-Sorry, we couldn't find this page. Please check the web address, or return to the Admin Home.  
+> Sorry, we couldn't find this page. Please check the web address, or return to the Admin Home.  
 
 ### Error 405
 
@@ -51,6 +51,10 @@ Sorry, we couldn't find this page. Please check the web address, or return to th
 > It seems that you don't have permission to access this page.   
 > Please contact your system adminstrator to check your user permissions.  
 > ERROR 403  
+
+#### Alert/notification component 
+
+> Sorry, you don't have access to this page. Please contact your system administrator. 
 
 ### Error 5xx
 
@@ -65,4 +69,4 @@ Sorry, we couldn't find this page. Please check the web address, or return to th
 
 #### Alert/notification component 
 
-Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.    
+> Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.    
