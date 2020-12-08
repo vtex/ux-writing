@@ -26,10 +26,22 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 - Add punctuation at the end of each sentence.  
 - Maximum of 3 sentences.   
 
-💡Examples
+## Default copies
 
+### Error 404
 
-## 👎 Don'ts
+**Sorry, we couldn't find this page**
+The content you are looking for was not found or does not exist anymore.
+Check the web address, or return to the Admin Home.
+ERROR 404
 
+### Error 405
 
-💡Examples
+**Sorry, you don't have access to this page**
+It seems that you don't have permission to access this page. 
+Please contact your system adminstrator to check your user permissions.
+ERROR 403
+
+### Error 5xx
+
+Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.
