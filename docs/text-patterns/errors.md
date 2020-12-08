@@ -30,15 +30,14 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 ### Error 404
 
-#### Full page
+- Full page
 
 > **Sorry, we couldn't find this page**  
-
 > The content you are looking for was not found or does not exist anymore.  
 > Please check the web address, or return to the Admin Home.  
 > ERROR 404  
 
-#### Alert/notification component
+- Alert/notification component
 
 > Sorry, we couldn't find this page. Please check the web address, or return to the Admin Home.  
 
@@ -46,27 +45,25 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 - Full page
 
-**Sorry, you don't have access to this page**
+> **Sorry, you don't have access to this page**
+> It seems that you don't have permission to access this page.   
+> Please contact your system adminstrator to check your user permissions.  
+> ERROR 403  
 
-It seems that you don't have permission to access this page.   
-Please contact your system adminstrator to check your user permissions.  
-ERROR 403  
-
-#### Alert/notification component 
+- Alert/notification component 
 
 > Sorry, you don't have access to this page. Please contact your system administrator. 
 
 ### Error 5xx
 
-#### Full page
+- Full page
 
 > **Sorry, something went wrong on our side**  
-
 > It seems that an internal error has occurred on our system.     
 > Please, try again, or refresh the page.    
 > ERROR 5XX  
 
 
-#### Alert/notification component 
+- Alert/notification component 
 
 > Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.    
