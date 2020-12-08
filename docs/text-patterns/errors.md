@@ -30,18 +30,20 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 ### Error 404
 
-**Sorry, we couldn't find this page**
-The content you are looking for was not found or does not exist anymore.
-Check the web address, or return to the Admin Home.
-ERROR 404
+**Sorry, we couldn't find this page**  
+
+The content you are looking for was not found or does not exist anymore.  
+Check the web address, or return to the Admin Home.  
+ERROR 404  
 
 ### Error 405
 
 **Sorry, you don't have access to this page**
-It seems that you don't have permission to access this page. 
-Please contact your system adminstrator to check your user permissions.
-ERROR 403
+
+It seems that you don't have permission to access this page.   
+Please contact your system adminstrator to check your user permissions.  
+ERROR 403  
 
 ### Error 5xx
 
-Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.
+Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.  
