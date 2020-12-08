@@ -30,13 +30,21 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 ### Error 404
 
+#### Full page
+
 **Sorry, we couldn't find this page**  
 
 The content you are looking for was not found or does not exist anymore.  
-Check the web address, or return to the Admin Home.  
+Please check the web address, or return to the Admin Home.  
 ERROR 404  
 
+#### Alert/notification component
+
+Sorry, we couldn't find this page. Please check the web address, or return to the Admin Home.  
+
 ### Error 405
+
+#### Full page
 
 **Sorry, you don't have access to this page**
 
@@ -46,4 +54,15 @@ ERROR 403
 
 ### Error 5xx
 
-Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.  
+#### Full page
+
+**Sorry, something went wrong on our side**  
+
+It seems that an internal error has occurred on our system.     
+Please, try again, or refresh the page.    
+ERROR 5XX  
+
+
+#### Alert/notification component 
+
+Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.    
