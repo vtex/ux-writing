@@ -18,7 +18,7 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 - Errors must be actionable. As users understand what is happening, we need to give them proper following actions.    
 - We should always calm the user, not cause more stress.     
 
-### Grammar
+## Grammar
 
 - We encourage the use of possessive adjectives or pronouns in sentences, as long as they don't exceed the limited space for text, in the UI. They reinforce the idea that users should feel connected with their VTEX environment, and feel they belong. It shows the respect we have towards their store.  
 - Prefer direct sentences, without passive voice.  
@@ -30,33 +30,33 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 ### Error 404
 
-- Full page
+#### Long
 
-> **Sorry, we couldn't find this page**  
+> **Sorry, we couldn't find this page**    
 > The content you are looking for was not found or does not exist anymore.  
 > Please check the web address, or return to the Admin Home.  
 > ERROR 404  
 
-- Alert/notification component
+#### Short
 
 > Sorry, we couldn't find this page. Please check the web address, or return to the Admin Home.  
 
 ### Error 405
 
-- Full page
+#### Long
 
-> **Sorry, you don't have access to this page**
-> It seems that you don't have permission to access this page.   
+> **Sorry, you don't have access to this page**  
+> It seems that you don't have permission to access this page.     
 > Please contact your system adminstrator to check your user permissions.  
 > ERROR 403  
 
-- Alert/notification component 
+#### Short 
 
 > Sorry, you don't have access to this page. Please contact your system administrator. 
 
 ### Error 5xx
 
-- Full page
+#### Long
 
 > **Sorry, something went wrong on our side**  
 > It seems that an internal error has occurred on our system.     
@@ -64,6 +64,6 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 > ERROR 5XX  
 
 
-- Alert/notification component 
+#### Short
 
 > Sorry,  somenthing went wrong on our side. Please, try again, or refresh the page.    
