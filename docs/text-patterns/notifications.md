@@ -1,6 +1,6 @@
 ---
 id: notifications
-title: Notifications
+title: Alerts 
 ---
 
 :::note
