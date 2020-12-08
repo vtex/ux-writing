@@ -44,13 +44,13 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 
 ### Error 405
 
-#### Full page
+- Full page
 
-> **Sorry, you don't have access to this page**
+**Sorry, you don't have access to this page**
 
-> It seems that you don't have permission to access this page.   
-> Please contact your system adminstrator to check your user permissions.  
-> ERROR 403  
+It seems that you don't have permission to access this page.   
+Please contact your system adminstrator to check your user permissions.  
+ERROR 403  
 
 #### Alert/notification component 
 
