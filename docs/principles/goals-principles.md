@@ -41,7 +41,7 @@ We speak firmly, respectfully and honestly — always with a tone that’s more 
 ### 📣 Authority
 🔴🔴🔴🔴🔴
 
-We are the e-commerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
+We are the ecommerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
 
 **Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
 
@@ -79,7 +79,7 @@ No matter the media, the objective, or the audience. Make sure your content is f
 
 ### 📝 Suitability
 
-Are you writing for engineers or e-commerce analysts? Are you channeling your message through an online banner or a downloadable white paper? Forget about right or wrong. Consider the target audience, the channel, and focus on what's appropriate.
+Are you writing for engineers or ecommerce analysts? Are you channeling your message through an online banner or a downloadable white paper? Forget about right or wrong. Consider the target audience, the channel, and focus on what's appropriate.
 
 ### 📝 Precision
 

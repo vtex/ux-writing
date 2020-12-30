@@ -27,7 +27,7 @@ Check out our [Process](/docs/best-practices/process) page for more details and 
 | Product Principles | Serious | Authority |
 |--------------------|---------|-----------|
 | Concepts           | - Reliability. <br />- Trust. <br />- Respect and responsibility towards clients and partners. | - We are sales oriented.    <br />- We are ecommerce experts.    <br />- We master our customer's diverse contexts.    |
-| Vocabulary         | - We avoid ambiguity and puns/jokes.   <br />- We never alarm users, we soothe their anxieties.   <br />- We build trust. | - We always use e-commerce jargons.  <br />- We are specific. |
+| Vocabulary         | - We avoid ambiguity and puns/jokes.   <br />- We never alarm users, we soothe their anxieties.   <br />- We build trust. | - We always use ecommerce jargons.  <br />- We are specific. |
 | Verbosity          | - Less is more. Unless it's for cordiality.  <br />- Prefer direct sentences.   <br />- We say "please" and "thank you".  | - Prefer complete sentences,<br />even where small phrases are more common.   <br />- We know exactly what to say. |
 | Grammar            | - Complete sentences with subject, verb and predicate.<br />- Gender neutral. | - Active voice.  <br />- Imperative verbs for actions. |
 | Punctuation        | - Avoid exclamation marks. | - Always end sentences with a period.                                                                              |
