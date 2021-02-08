@@ -33,6 +33,7 @@ So we have consistency throughout the actions that buttons represent, we suggest
 | Search | Buscar  | Buscar  |
 | Save   | Salvar  | Guardar |
 | Delete | Excluir | Excluir |
+| John | João | Juán |
 
 
 ### Icons as buttons
