@@ -59,9 +59,10 @@ Errors aren't the happy path we want our users to follow. They usually trigger f
 #### Long
 
 > **Sorry, something went wrong on our side**  
-> It seems that an internal error has occurred on our system.     
-> Please, try again, or refresh the page.    
+> It seems that an internal error has occurred on our system. Please, try again, or refresh the page.        
+> If the problem persists, access our Status Page or get in touch with our support.
 > ERROR 5XX  
+
 
 
 #### Short
