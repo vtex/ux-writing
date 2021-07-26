@@ -1,6 +1,6 @@
 module.exports = {
   title: 'VTEX UX Writing Guidelines',
-  tagline: 'The tagline of my site',
+  tagline: 'The right words in the right time',
   url: 'https://uxwriting.vtex.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -54,7 +54,6 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'intro',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
