@@ -6,6 +6,9 @@
  */
 
 /* You can override the default Infima variables here. */
+
+@import url(https://io.vtex.com.br/fonts/vtex-trust/style.css);
+
 :root {
   --ifm-color-primary: #f71963;
   --ifm-color-primary-dark: #ed0854;
@@ -15,6 +18,7 @@
   --ifm-color-primary-lighter: #f8407e;
   --ifm-color-primary-lightest: #fa6898;
   --ifm-code-font-size: 95%;
+  font-family: 'VTEX Trust', sans-serif;
 }
 
 .docusaurus-highlight-code-line {
