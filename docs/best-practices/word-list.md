@@ -145,7 +145,7 @@ title: Word List
 | placeholder| placeholder | placeholder| CMS| |
 | Postal Code range| faixa de CEP| rango de código postal | Inventory & Shipping | |
 | Preparing Delivery | Preparando Entrega| Preparando Entrega | Orders Management| |
-| price divergence rate| taxa de divergência de preço| tasa de divergencia de precio| Integrations | While setting up integrations with some marketplaces, the store may configure a rate of acceptance for the divergence between an order's value in the seller and it's value in the marketplace. This divergence happens when an order originated in an external marketplace has a different price than the one registered in the seller.|
+| price divergence percentage| percentual de divergência de preço| Porcentaje de divergencia de precio| Integrations | While setting up integrations with some marketplaces, the store may configure a rate of acceptance for the divergence between an order's value in the seller and it's value in the marketplace. This divergence happens when an order originated in an external marketplace has a different price than the one registered in the seller.|
 | price limits | trava de preço| límites de precio| Prices | Percentage change accepted in the change of a price. If it is injured, it returns an error|
 | price per quantity | preço por quantidade| precio por cantidad| Prices | Specific price for minimum quantities of the item in the cart. (To use a fixed price, a minimum quantity of 1. is defined)|
 | price rules| regra de preços | reglas de precios| Prices | Conditions that the product must meet in order for a price change be applied. The effect (the change itself) also belongs to the rule |
