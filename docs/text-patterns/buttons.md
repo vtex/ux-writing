@@ -12,6 +12,7 @@ Keep in mind the Authority we want to transmit with our voice. Buttons are where
 
 - Buttons should be completely straight-forward. Absolutely no room for ambiguity.
 - The behavior they trigger must reflect the exact action that is written.
+- The verb used should indicate the action taken directly. Avoid using "CONFIRM", and use "PUBLISH" instead, for example.
 
 
 ### Grammar
