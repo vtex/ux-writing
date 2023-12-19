@@ -5,73 +5,88 @@ sidebar_label: Getting Started
 slug: /
 ---
 
-## What is UX Writing
+## Overview
 
+### Who is this styleguide for?
+
+UX writing is a collaborative craft in its essence.
+
+In VTEX, we have different teams who collaborate to create the words on our experience. People from _Localization, Design, Product and Education_ teams usually take part in the UX Writing process.
+
+We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in UX Writing can count on, to create precise copy, aligned with our tone and voice, following best practices.
+
+We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.
+
+This guide was developed seeking to educate our community about UX Writing in VTEX's context, with no commercial intention.
+
+### What is UX Writing
 
 > "An experience with broken words is a house with broken walls. Fix the words as you would repair the walls." - **Torrey Podmajersky, Strategic Writing for UX**, published by O'Reilly Media, Inc. in June 2019
 
-
 UX Writing is the craft of designing the words that users see and interact with, in softwares. It is a vital component within the general user experience we want to promote to our clients. Text written in screens is often referred to as microcopy, for we have very limited space to convey actions and concepts.
 
- Where can you find UX Writing, in our VTEX context:  
-- Our VTEX Commerce Admin    
+Where can you find UX Writing, in our VTEX context:
+
+- Our VTEX Commerce Admin
 - VTEX IO apps and Toolbelt
-- Our stand alone products, like VTEX Tracking    
-- Our platform status page   
-- APIs   
+- Our stand alone products, like VTEX Tracking
+- Our platform status page
+- APIs
 
-## What UX Writing is not
+### What UX Writing is not
 
-UX Writing is not the same as creating content for websites, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI, or APIs that developers interact with. 
+UX Writing is not the same as creating content for websites, social media, or documentation. Likewise, this styleguide is not a general guide for copywriting. It is specifically for microcopy that is seen on our VTEX platform's UI, or APIs that developers interact with.
 
-## Who is this styleguide for?
+### Other resources
 
-UX writing is a collaborative craft in its essence.   
+- [Language Hub](https://vtex.github.io/Language-Hub/)
+- [Shoreline](https://admin-ui.vercel.app/)
+- [Localization and Internationalization](https://www.notion.so/Localization-and-Internationalization-28e89c059cfa45649cfe31513ccac34c?pvs=21)
 
-In VTEX, we have different teams who collaborate to create the words on our experience. People from  *Localization, Design, Product and Education* teams usually take part in the UX Writing process.   
+## Goals and Principles
 
-We build for community. **If you are writing the text that appears on our VTEX platform's UI, this styleguide is for you**. It is the resource that everyone involved in  UX Writing can count on, to create precise copy, aligned with our tone and voice, following best practices.   
+Our brand's voice is present when bringing awareness to our solutions, attracting customers and building a community. We must align all our communication strategies, so our brand's voice is recognizable regardless of the medium our user is interacting with. Once a person becomes our client, and starts using our solutions, they should still recognize our voice. In this page we bring forth our Brand Principles, Tone and Voice and Writing guidelines to remind UX writers how UX copy should always be aligned with our product and brand's strategy.
 
-We might have different tools to accomplish our goals, but at the end of the day, we want the same thing: to facilitate an intuitive experience for VTEX customers. A shared responsibility means we tackle the challenge together, co-create the resources needed, and scale the access so we have agile processes.   
+### Tone and Voice
 
-This guide was developed seeking to educate our community about UX Writing in VTEX's context, with no commercial intention. 
+Although we should transmit the same voice whenever VTEX is speaking, we understand that there are differences between writing a blog post and writing an error message.
 
+On our platforms we deal with sensitive data, and our client's results. It demmands responsibility and respect in how we communicate. Therefore, for UX Writing, we choose to favor the **Serious** and **Authority** tones, from our Brand Manual. We understand that they capture the reliability and expertise our system's voice should have.
 
-## Why follow UX Writing guidelines
+#### 📣 Serious
 
-By defining clear UX Writing guidelines, we wish to:
+We speak firmly, respectfully and honestly — always with a tone that’s more serious than playful.
 
-### Avoid
-- **Inconsistent terminology:** a unified information architecture is vital when designing text. Terms must have contextualized, unique meanings, that are consistent throughout our platform.     
-- **Lack of alignment with our brand's voice:** users must recognize us regardless of the medium they're interacting with. Our brand's voice and principles must be taken into account in UX Writing.  
-- **Ambiguous microcopy:** we must be precise with UX text, so our users know how, when, why and what actions they need to take.   
-- **Frustrating our users:** UX copy is what the user ultimately interacts with in a software. We must transmit trust, not trigger confusion.     
- 
+**Serious, not playful:** To build trust, we must avoid jokes, puns, and everything that may sound ambiguous. Being straightforward and honest is the key.
 
-### Achieve
-- **Text aligned with VTEX's goals and brand:** UX writing is how our voice can be heard daily by our clients. We must have a strategic approach with microcopy, transmiting our goals, values and brand principles as a company.  
-- **Clear information architecture:** it is the structure for an excellent user experience. Not just within modules, but throughout the whole product.   
-- **Agility for our user's actions:** the effectiveness of UX Writing can be measure by how long it takes for users to achieve their goals on a screen. Our microcopy should promote agility and confidence to users.   
-- **Polished product:** leveraging engineering, design and UX writing so our users recognize our product's reliability and our authority in the market.  
+#### 📣 Authority
 
+We are the ecommerce bastions. When speaking to others, we talk with mastery, proficiency and expertise.
 
+**Authority, not arbitrary:** We're commerce and technology specialists. Our content embodies that expertise to be useful for our users, never pretentious or obnoxious. Sounding trustful is the key.
 
-## How was this styleguide built
+#### 📣 Young
 
+We have the energy and the attitude to accelerate the transformations that will take our clients (and ourselves) to the next level. We are restless and passionate.
 
-The Education and Design teams conducted an internal research to map how we previously dealt with UX Writing. We identified what frictions were present in our process, and what resources were missing so we could create the best microcopy collaboratively. This styleguide is the result of the research's effort, to improve how we manage UX Writing in VTEX.
+**Young, not naive:** We must show our passion for tech and commerce and the energy we put on everything we do. Keep the content fresh and pleasant.
 
-Torrey Podmajersky's book, [*Strategic Writing for UX*](https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/), published by O'Reilly Media, Inc. in June 2019, has been a major reference for this guide's content and structure. She's been an expert on this field for over 10 years, and you'll see many quotations and concepts from her book here, always directly cited. 
+#### 📣 Rebel
 
+We are not afraid of making mistakes, because we learn from them and become better as a company. But we are not reckless: We are just bold enough to develop the innovations that will disrupt the market.
 
-## What does it contain
+**Rebel, not inconsequent:** It's part of our nature to question absolute truths. We constantly challenge ourselves, and our content must do the same. Being bold is the key to that.
 
-Here you can find:
-- [Voice Chart](/docs/principles/voice-chart): to guide you in drafting, editing and choosing the best microcopy.  
-- [Text Patterns](/docs/text-patterns/titles): so you'll have a starting point to write precise text for buttons, titles, error messages and more.  
-- [Process](/docs/best-practices/process): to direct you to the best practices and steps present when writing microcopy.  
-- [Accessibility](/docs/best-practices/a11y): so we build for community.  
-- [Localization](/docs/best-practices/i18n): to write copy that is ready to go global.  
-- [Word List](/docs/best-practices/word-list): so we have consistent terminology. 
+### Writing Principles
 
+#### 📝 Clarity
 
+No matter the media, the objective, or the audience. Make sure your content is free from any possible ambiguities. Being straightforward on complex (or delicate) themes will help users better understand the message.
+
+#### 📝 Suitability
+
+Are you writing for engineers or ecommerce analysts? Are you channeling your message through an online banner or a downloadable white paper? Forget about right or wrong. Consider the target audience, the channel, and focus on what's appropriate.
+
+#### 📝 Precision
+
+Stick to the main message you want to communicate and cut everything else. Mixing up many different topics will only confuse the audience and lower the performance of your content.
