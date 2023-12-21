@@ -1,13 +1,18 @@
 module.exports = {
   docs: [
     {
-      type: "doc",
-      id: "intro",
+      type: "category",
+      label: "Getting Started",
+      collapsed: true,
+      items: [
+        "getting-started/overview",
+        "getting-started/goals-and-principles",
+      ],
     },
     {
       type: "category",
       label: "Text Patterns",
-      collapsed: false,
+      collapsed: true,
       items: [
         "text-patterns/titles",
         "text-patterns/page-description",
